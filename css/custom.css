@@ -49,16 +49,12 @@
     min-height: 60px !important;
 }
 
-/*#Mod94{
-  margin-right:15px;
-}*/
-
-#column-id-1477911185390 {
-    border-right: #ffffff solid;
+/* SCOS */
+.home-page-center-nav-icons {
+    border-left: solid #ffffff;
 }
-
-#column-id-1477911185392 {
-    border-left: #ffffff solid;
+.jupyter-separator {
+    border-left: 2px solid #fda128;
 }
 
 form.form-inline.form-search {
@@ -734,6 +730,14 @@ a:hover {
     .header-affix-fix {
         min-height: 53px;
     }
+    /* SCOS */
+    .home-page-center-nav-icons {
+        border-left: 0px;
+        border-top: solid #ffffff;
+    }
+    .jupyter-separator {
+        border-left: 0px;
+    }
 }
 
 @media (max-width: 767px) {
@@ -766,12 +770,6 @@ a:hover {
     }
     .above-menu .left {
         display: none!important;
-    }
-    #column-id-1477911185390 {
-        border-right: 0px!important;
-    }
-    #column-id-1477911185392 {
-        border-left: 0px!important;
     }
 }
 
