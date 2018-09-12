@@ -10,4 +10,4 @@
 7. In System > Templates > Pocsmart Details and Files. Update proteon.css
 8. In System > Control Panel > Modules Edit FooterTop remove Home add Analytics
 9. SEO Title for Analytics Page: Use Jupyter Hub to analyze Smart Columbus data
-10. SEO Meta Tags: Jupyter, Analytics, Data Science, Python, JupyterHub
+10. SEO Meta Tags: Jupyter, Data Science, Python, JupyterHub, JupyterLab, SciPy, Analytics
