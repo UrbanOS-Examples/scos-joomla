@@ -48,8 +48,8 @@ $this->addHead();
 
 <?php
 // CUSTOM CSS
-if (is_file(T3_TEMPLATE_PATH . '/css/custom.css')) {
-	$this->addStyleSheet(T3_TEMPLATE_URL . '/css/custom.css');
+if (is_file(T3_TEMPLATE_PATH . '/css/custom_20180911.css')) {
+	$this->addStyleSheet(T3_TEMPLATE_URL . '/css/custom_20180911.css');
 }
 ?>
 
