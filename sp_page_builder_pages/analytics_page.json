@@ -245,7 +245,7 @@
                 "title_position": "top",
                 "image": "images/jupyterhub/jupyter-long.png",
                 "border_radius": 0,
-                "alt_text": "Image",
+                "alt_text": "Jupyter.org Logo",
                 "position": "sppb-text-center",
                 "open_lightbox": 0,
                 "overlay_color": "rgba(119, 219, 31, .5)",
@@ -266,11 +266,15 @@
                 "global_border_width": "",
                 "global_border_radius": 0,
                 "global_margin": {
-                  "md": "0 0 30px 0",
-                  "sm": "0 0 20px 0",
-                  "xs": "0 0 10px 0"
+                  "md": "0 0 16px 0",
+                  "sm": "0 0 16px 0",
+                  "xs": "0 0 16px 0"
                 },
-                "global_padding": "",
+                "global_padding": {
+                  "md": "   ",
+                  "sm": "   ",
+                  "xs": "   "
+                },
                 "global_boxshadow": "0 0 0 0 #ffffff",
                 "global_use_animation": 0,
                 "global_animationduration": "300",
@@ -580,7 +584,7 @@
                 "title_fontsize": "",
                 "title_lineheight": "",
                 "title_letterspace": "0",
-                "text": "<h4><strong>JUPYTERHUB</strong></h4>\n<p>We leverage JupyterHub to create single-user instances of Jupyter Notebooks. We believe people of all technical skill levels should have access to the data needed to change their world. To help users easily accomplish this, we create and manage each users Jupyter Notebook server. We're actively working to create a user friendly experience for people from all backgrounds.We leverage JupyterHub to create single-user instances of Jupyter Notebooks. We believe people of all technical skill levels should have access to the data needed to change their world. To help users easily accomplish this, we create and manage each users Jupyter Notebook server. We're actively working to create a user friendly experience for people from all backgrounds.</p>\n<p>&nbsp;</p>\n<h4><strong>SUPPORTED LANGUAGAES</strong></h4>\n<p>We are currently only supporting Python3, but we're planning to expand our offering to several popular languages within the data science community.</p>\n<p>&nbsp;</p>\n<h4><strong>WHAT'S UNDER THE HOOD</strong></h4>\n<p>When creating a notebook, the Jupyter kernel uses the Python3 environment on the notebook server. The server comes with the SciPy package, which includes a great deal of packages that support working with big data. If you would like to learn about the Python packages included n SciPY, the documentation can be found here.&nbsp;When creating a notebook, the Jupyter kernel uses the Python3 environment on the notebook server. The server comes with the SciPy package, which includes a great deal of packages that support working with big data. If you would like to learn about the Python packages included in SciPY, the documentation can be found <a href=\"https://www.scipy.org/\" target=\"_blank\" rel=\"noopener\">here</a>.&nbsp;</p>\n<p>We also include the Leaflet package so our users can create beautiful visualizations using the operating systems geolocation data.</p>\n<h5><em>EXTERNAL PACKAGES</em></h5>\n<p>Jupyter Notebooks support the ability to install external Python libraries using pip and conda. More information about installing external python packages can be found <a href=\"https://www.scipy.org/install.html\" target=\"_blank\" rel=\"noopener\">here</a>.</p>",
+                "text": "<h4><strong>JUPYTERHUB</strong></h4>\n<p>We leverage JupyterHub to create single-user instances of Jupyter Notebooks. We believe people of all technical skill levels should have access to the data needed to change their world. To help users easily accomplish this, we create and manage each users Jupyter Notebook server. We're actively working to create a user friendly experience for people from all backgrounds.</p>\n<p>&nbsp;</p>\n<h4><strong>SUPPORTED LANGUAGES<br /></strong></h4>\n<p>We are currently only supporting Python3, but we're planning to expand our offering to several popular languages within the data science community.</p>\n<p>&nbsp;</p>\n<h4><strong>WHAT'S UNDER THE HOOD</strong></h4>\n<p>When creating a notebook, the Jupyter kernel uses the Python3 environment on the notebook server. The server comes with the SciPy package, which includes a great deal of packages that support working with big data. If you would like to learn about the Python packages included n SciPY, the documentation can be found&nbsp;<a href=\"https://www.scipy.org/\" target=\"_blank\" rel=\"noopener\">here</a>.&nbsp;</p>\n<p>We also include the Leaflet package so our users can create beautiful visualizations using the operating systems geolocation data.</p>\n<h5><em>EXTERNAL PACKAGES</em></h5>\n<p>Jupyter Notebooks support the ability to install external Python libraries using pip and conda. More information about installing external python packages can be found <a href=\"https://www.scipy.org/install.html\" target=\"_blank\" rel=\"noopener\">here</a>.</p>",
                 "alignment": "",
                 "text_fontsize": "",
                 "text_lineheight": "",
@@ -594,9 +598,9 @@
                   "xs": "   "
                 },
                 "global_padding": {
-                  "md": "15px 45px 0px 45px",
-                  "sm": "0px 25px 0px 25px",
-                  "xs": "0px 25px 0px 25px"
+                  "md": "15px 45px 32px 45px",
+                  "sm": "0px 25px 32px 25px",
+                  "xs": "0px 25px 32px 25px"
                 },
                 "global_use_animation": 0,
                 "use_global_width": 0,
