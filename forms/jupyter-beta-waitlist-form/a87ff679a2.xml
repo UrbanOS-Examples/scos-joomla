@@ -1,0 +1,364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<form>
+<structure>
+<FormId>4</FormId>
+<FormName><![CDATA[jupyter-beta-waitlist-form]]></FormName>
+<FormLayout><![CDATA[{error}
+<!-- Do not remove this ID, it is used to identify the page so that the pagination script can work correctly -->
+<fieldset class="formContainer formHorizontal" id="rsform_{global:formid}_page_0">
+	<div class="formRow">
+		<div class="formSpan12">
+			<div class="rsform-block rsform-block-name{Name:errorClass}">
+				<div class="formControlLabel">{Name:caption}<strong class="formRequired">(*)</strong></div>
+				<div class="formControls">
+					<div class="formBody">
+						{Name:body}
+						<span class="formValidation">{Name:validation}</span>
+						<p class="formDescription">{Name:description}</p>
+					</div>
+				</div>
+			</div>
+			<div class="rsform-block rsform-block-email{Email:errorClass}">
+				<div class="formControlLabel">{Email:caption}<strong class="formRequired">(*)</strong></div>
+				<div class="formControls">
+					<div class="formBody">
+						{Email:body}
+						<span class="formValidation">{Email:validation}</span>
+						<p class="formDescription">{Email:description}</p>
+					</div>
+				</div>
+			</div>
+			<div class="rsform-block rsform-block-github-username{GitHub Username:errorClass}">
+				<div class="formControlLabel">{GitHub Username:caption}<strong class="formRequired">(*)</strong></div>
+				<div class="formControls">
+					<div class="formBody">
+						{GitHub Username:body}
+						<span class="formValidation">{GitHub Username:validation}</span>
+						<p class="formDescription">{GitHub Username:description}</p>
+					</div>
+				</div>
+			</div>
+			<div class="rsform-block rsform-block-professional-experience{Professional Experience:errorClass}">
+				<div class="formControlLabel">{Professional Experience:caption}<strong class="formRequired">(*)</strong></div>
+				<div class="formControls">
+					<div class="formBody">
+						{Professional Experience:body}
+						<span class="formValidation">{Professional Experience:validation}</span>
+						<p class="formDescription">{Professional Experience:description}</p>
+					</div>
+				</div>
+			</div>
+			<div class="rsform-block rsform-block-programming-experience{Programming Experience:errorClass}">
+				<div class="formControlLabel">{Programming Experience:caption}<strong class="formRequired">(*)</strong></div>
+				<div class="formControls">
+					<div class="formBody">
+						{Programming Experience:body}
+						<span class="formValidation">{Programming Experience:validation}</span>
+						<p class="formDescription">{Programming Experience:description}</p>
+					</div>
+				</div>
+			</div>
+			<div class="rsform-block rsform-block-reason{Reason:errorClass}">
+				<div class="formControlLabel">{Reason:caption}<strong class="formRequired">(*)</strong></div>
+				<div class="formControls">
+					<div class="formBody">
+						{Reason:body}
+						<span class="formValidation">{Reason:validation}</span>
+						<p class="formDescription">{Reason:description}</p>
+					</div>
+				</div>
+			</div>
+			<div class="rsform-block rsform-block-verification{verification:errorClass}">
+				<div class="formControlLabel">{verification:caption}<strong class="formRequired">(*)</strong></div>
+				<div class="formControls">
+					<div class="formBody">
+						{verification:body}
+						<span class="formValidation">{verification:validation}</span>
+						<p class="formDescription">{verification:description}</p>
+					</div>
+				</div>
+			</div>
+			<div class="rsform-block rsform-block-send-message{Send Message:errorClass}">
+				<div class="formControlLabel">{Send Message:caption}</div>
+				<div class="formControls">
+					<div class="formBody">
+						{Send Message:body}
+						<span class="formValidation">{Send Message:validation}</span>
+						<p class="formDescription">{Send Message:description}</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</fieldset>]]></FormLayout>
+<GridLayout><![CDATA[[[{"columns":[["Name","Email","GitHub Username","Professional Experience","Programming Experience","Reason","verification","Send Message"]],"sizes":["12"]}],[]]]]></GridLayout>
+<FormLayoutName><![CDATA[responsive]]></FormLayoutName>
+<LoadFormLayoutFramework>1</LoadFormLayoutFramework>
+<FormLayoutAutogenerate>1</FormLayoutAutogenerate>
+<FormLayoutFlow>0</FormLayoutFlow>
+<DisableSubmitButton>0</DisableSubmitButton>
+<RemoveCaptchaLogged>0</RemoveCaptchaLogged>
+<CSS></CSS>
+<JS></JS>
+<FormTitle><![CDATA[Jupyter Beta Waitlist Form]]></FormTitle>
+<ShowFormTitle>0</ShowFormTitle>
+<Published>1</Published>
+<Lang><![CDATA[en-GB]]></Lang>
+<ReturnUrl></ReturnUrl>
+<ShowSystemMessage>1</ShowSystemMessage>
+<ShowThankyou>1</ShowThankyou>
+<ScrollToThankYou>1</ScrollToThankYou>
+<ThankYouMessagePopUp>0</ThankYouMessagePopUp>
+<Thankyou><![CDATA[<h4><strong>We're Working On Your Request</strong></h4>
+<p><span style="color: #000000; font-size: 14px;">Thanks for adding your name. We’ll be sending you updates on our Beta program as we’re adding the capacity to support our Beta users. If you have questions or feedback use our <a href="/contact-us">Contact Us</a> page to reach out.</span></p>
+<p><span style="color: #000000; font-size: 14px;">In the meantime, find a dataset you’d like to use in Jupyter.</span></p>
+<p><a class="sppb-btn sppb-btn-custom sppb-btn-square sppb-btn-black" href="/data">Browse Datasets</a></p>]]></Thankyou>
+<ShowContinue>0</ShowContinue>
+<UserEmailText><![CDATA[<p>Thank you for contacting us. We will get back to you as soon as possible.</p>
+<p>{Name:caption}: {Name:value}</p>
+<p>{Email:caption}: {Email:value}</p>
+<p>{Subject:caption}: {Subject:value}</p>
+<p>{Message:caption}: {Message:value}</p>
+<p>{Send:caption}: {Send:value}</p>]]></UserEmailText>
+<UserEmailTo></UserEmailTo>
+<UserEmailCC></UserEmailCC>
+<UserEmailBCC></UserEmailBCC>
+<UserEmailFrom></UserEmailFrom>
+<UserEmailReplyTo></UserEmailReplyTo>
+<UserEmailFromName></UserEmailFromName>
+<UserEmailSubject></UserEmailSubject>
+<UserEmailMode>1</UserEmailMode>
+<UserEmailAttach>0</UserEmailAttach>
+<UserEmailAttachFile></UserEmailAttachFile>
+<AdminEmailText><![CDATA[<p>Hi,<br /><br />I am the website of SCOS informing you that a visitor has submitted the JupyterHub Beta Waitlist form with the following details:<br /><br /></p>
+<p>{Name:caption}<br />{Name:value}</p>
+<p>{Email:caption}<br />{Email:value}</p>
+<p>{GitHub Username:caption}<br />{GitHub Username:value}</p>
+<p>{Professional Experience:caption}<br />{Professional Experience:value}</p>
+<p>{Programming Experience:caption}<br />{Programming Experience:value}</p>
+<p>{Reason:caption}<br />{Reason:value}</p>
+<p><br />Thanks,</p>]]></AdminEmailText>
+<AdminEmailTo><![CDATA[smartcolumbusos@columbus.gov]]></AdminEmailTo>
+<AdminEmailCC></AdminEmailCC>
+<AdminEmailBCC></AdminEmailBCC>
+<AdminEmailFrom><![CDATA[smartcolumbusos@columbus.gov]]></AdminEmailFrom>
+<AdminEmailReplyTo></AdminEmailReplyTo>
+<AdminEmailFromName><![CDATA[Smart Columbus Operating System]]></AdminEmailFromName>
+<AdminEmailSubject><![CDATA[JupyterHub beta waitlist request]]></AdminEmailSubject>
+<AdminEmailMode>1</AdminEmailMode>
+<ScriptProcess></ScriptProcess>
+<ScriptProcess2></ScriptProcess2>
+<ScriptDisplay></ScriptDisplay>
+<UserEmailScript></UserEmailScript>
+<AdminEmailScript></AdminEmailScript>
+<AdditionalEmailsScript></AdditionalEmailsScript>
+<MetaTitle>0</MetaTitle>
+<MetaDesc></MetaDesc>
+<MetaKeywords></MetaKeywords>
+<Required><![CDATA[(*)]]></Required>
+<ErrorMessage><![CDATA[<p class="formRed">Please complete all required fields!</p>]]></ErrorMessage>
+<MultipleSeparator><![CDATA[\n]]></MultipleSeparator>
+<TextareaNewLines>1</TextareaNewLines>
+<CSSClass></CSSClass>
+<CSSId><![CDATA[userForm]]></CSSId>
+<CSSName></CSSName>
+<CSSAction></CSSAction>
+<CSSAdditionalAttributes></CSSAdditionalAttributes>
+<AjaxValidation>0</AjaxValidation>
+<ScrollToError>0</ScrollToError>
+<ThemeParams></ThemeParams>
+<Keepdata>1</Keepdata>
+<KeepIP>1</KeepIP>
+<DeleteSubmissionsAfter>0</DeleteSubmissionsAfter>
+<Backendmenu>0</Backendmenu>
+<ConfirmSubmission>0</ConfirmSubmission>
+<Access></Access>
+</structure>
+<fields>
+<field>
+<ComponentTypeId>1</ComponentTypeId>
+<Order>0</Order>
+<Published>1</Published>
+<properties>
+<NAME><![CDATA[Name]]></NAME>
+<CAPTION><![CDATA[Your Name]]></CAPTION>
+<REQUIRED><![CDATA[YES]]></REQUIRED>
+<SIZE>30</SIZE>
+<MAXSIZE></MAXSIZE>
+<VALIDATIONRULE><![CDATA[none]]></VALIDATIONRULE>
+<VALIDATIONEXTRA></VALIDATIONEXTRA>
+<VALIDATIONMESSAGE><![CDATA[Please let us know your name.]]></VALIDATIONMESSAGE>
+<ADDITIONALATTRIBUTES></ADDITIONALATTRIBUTES>
+<DEFAULTVALUE></DEFAULTVALUE>
+<DESCRIPTION></DESCRIPTION>
+<INPUTTYPE><![CDATA[text]]></INPUTTYPE>
+<ATTRMIN></ATTRMIN>
+<ATTRSTEP></ATTRSTEP>
+<ATTRMAX></ATTRMAX>
+<PLACEHOLDER></PLACEHOLDER>
+<EMAILATTACH></EMAILATTACH>
+</properties>
+</field>
+<field>
+<ComponentTypeId>1</ComponentTypeId>
+<Order>1</Order>
+<Published>1</Published>
+<properties>
+<NAME><![CDATA[Email]]></NAME>
+<CAPTION><![CDATA[Your Email]]></CAPTION>
+<REQUIRED><![CDATA[YES]]></REQUIRED>
+<SIZE>30</SIZE>
+<MAXSIZE></MAXSIZE>
+<VALIDATIONRULE><![CDATA[email]]></VALIDATIONRULE>
+<VALIDATIONEXTRA></VALIDATIONEXTRA>
+<VALIDATIONMESSAGE><![CDATA[Please let us know your email address.]]></VALIDATIONMESSAGE>
+<ADDITIONALATTRIBUTES></ADDITIONALATTRIBUTES>
+<DEFAULTVALUE></DEFAULTVALUE>
+<DESCRIPTION></DESCRIPTION>
+<INPUTTYPE><![CDATA[text]]></INPUTTYPE>
+<ATTRMIN></ATTRMIN>
+<ATTRSTEP></ATTRSTEP>
+<ATTRMAX></ATTRMAX>
+<PLACEHOLDER></PLACEHOLDER>
+<EMAILATTACH></EMAILATTACH>
+</properties>
+</field>
+<field>
+<ComponentTypeId>2</ComponentTypeId>
+<Order>3</Order>
+<Published>1</Published>
+<properties>
+<NAME><![CDATA[Professional Experience]]></NAME>
+<CAPTION><![CDATA[Tell Us About Your Professional Experience]]></CAPTION>
+<REQUIRED><![CDATA[YES]]></REQUIRED>
+<COLS>50</COLS>
+<ROWS>5</ROWS>
+<VALIDATIONRULE><![CDATA[none]]></VALIDATIONRULE>
+<VALIDATIONEXTRA></VALIDATIONEXTRA>
+<VALIDATIONMESSAGE><![CDATA[Please let us know your message.]]></VALIDATIONMESSAGE>
+<ADDITIONALATTRIBUTES></ADDITIONALATTRIBUTES>
+<DEFAULTVALUE></DEFAULTVALUE>
+<DESCRIPTION></DESCRIPTION>
+<WYSIWYG><![CDATA[NO]]></WYSIWYG>
+<PLACEHOLDER></PLACEHOLDER>
+<EMAILATTACH></EMAILATTACH>
+<WYSIWYGBUTTONS><![CDATA[NO]]></WYSIWYGBUTTONS>
+<MAXSIZE></MAXSIZE>
+<SHOW_CHAR_COUNT><![CDATA[NO]]></SHOW_CHAR_COUNT>
+</properties>
+</field>
+<field>
+<ComponentTypeId>2424</ComponentTypeId>
+<Order>6</Order>
+<Published>1</Published>
+<properties>
+<NAME><![CDATA[verification]]></NAME>
+<CAPTION><![CDATA[Verification]]></CAPTION>
+<DESCRIPTION></DESCRIPTION>
+<VALIDATIONMESSAGE><![CDATA[Invalid Input]]></VALIDATIONMESSAGE>
+<THEME><![CDATA[LIGHT]]></THEME>
+<TYPE><![CDATA[IMAGE]]></TYPE>
+<SIZE><![CDATA[NORMAL]]></SIZE>
+<ADDITIONALATTRIBUTES></ADDITIONALATTRIBUTES>
+<EMAILATTACH></EMAILATTACH>
+</properties>
+</field>
+<field>
+<ComponentTypeId>13</ComponentTypeId>
+<Order>7</Order>
+<Published>1</Published>
+<properties>
+<NAME><![CDATA[Send Message]]></NAME>
+<LABEL><![CDATA[Send Request]]></LABEL>
+<CAPTION></CAPTION>
+<RESET><![CDATA[NO]]></RESET>
+<RESETLABEL></RESETLABEL>
+<ADDITIONALATTRIBUTES></ADDITIONALATTRIBUTES>
+<PREVBUTTON></PREVBUTTON>
+<DISPLAYPROGRESS><![CDATA[NO]]></DISPLAYPROGRESS>
+<DISPLAYPROGRESSMSG></DISPLAYPROGRESSMSG>
+<BUTTONTYPE><![CDATA[TYPEBUTTON]]></BUTTONTYPE>
+<EMAILATTACH></EMAILATTACH>
+</properties>
+</field>
+<field>
+<ComponentTypeId>1</ComponentTypeId>
+<Order>2</Order>
+<Published>1</Published>
+<properties>
+<NAME><![CDATA[GitHub Username]]></NAME>
+<CAPTION><![CDATA[Your GitHub User Name]]></CAPTION>
+<DEFAULTVALUE></DEFAULTVALUE>
+<DESCRIPTION></DESCRIPTION>
+<REQUIRED><![CDATA[YES]]></REQUIRED>
+<VALIDATIONEXTRA></VALIDATIONEXTRA>
+<VALIDATIONRULE><![CDATA[none]]></VALIDATIONRULE>
+<VALIDATIONMESSAGE><![CDATA[Invalid Input]]></VALIDATIONMESSAGE>
+<INPUTTYPE><![CDATA[text]]></INPUTTYPE>
+<ATTRMIN></ATTRMIN>
+<ATTRSTEP>1</ATTRSTEP>
+<ATTRMAX></ATTRMAX>
+<SIZE>30</SIZE>
+<MAXSIZE></MAXSIZE>
+<PLACEHOLDER></PLACEHOLDER>
+<ADDITIONALATTRIBUTES></ADDITIONALATTRIBUTES>
+<EMAILATTACH></EMAILATTACH>
+</properties>
+</field>
+<field>
+<ComponentTypeId>2</ComponentTypeId>
+<Order>4</Order>
+<Published>1</Published>
+<properties>
+<NAME><![CDATA[Programming Experience]]></NAME>
+<CAPTION><![CDATA[Tell Us About Your Programming Experience]]></CAPTION>
+<DEFAULTVALUE></DEFAULTVALUE>
+<DESCRIPTION></DESCRIPTION>
+<REQUIRED><![CDATA[YES]]></REQUIRED>
+<VALIDATIONEXTRA></VALIDATIONEXTRA>
+<VALIDATIONRULE><![CDATA[none]]></VALIDATIONRULE>
+<VALIDATIONMESSAGE><![CDATA[Invalid Input]]></VALIDATIONMESSAGE>
+<COLS>50</COLS>
+<ROWS>5</ROWS>
+<PLACEHOLDER></PLACEHOLDER>
+<WYSIWYG><![CDATA[NO]]></WYSIWYG>
+<WYSIWYGBUTTONS><![CDATA[NO]]></WYSIWYGBUTTONS>
+<MAXSIZE></MAXSIZE>
+<SHOW_CHAR_COUNT><![CDATA[NO]]></SHOW_CHAR_COUNT>
+<ADDITIONALATTRIBUTES></ADDITIONALATTRIBUTES>
+<EMAILATTACH></EMAILATTACH>
+</properties>
+</field>
+<field>
+<ComponentTypeId>2</ComponentTypeId>
+<Order>5</Order>
+<Published>1</Published>
+<properties>
+<NAME><![CDATA[Reason]]></NAME>
+<CAPTION><![CDATA[Tell Us Why You're Interested In The Beta Program]]></CAPTION>
+<DEFAULTVALUE></DEFAULTVALUE>
+<DESCRIPTION></DESCRIPTION>
+<REQUIRED><![CDATA[YES]]></REQUIRED>
+<VALIDATIONEXTRA></VALIDATIONEXTRA>
+<VALIDATIONRULE><![CDATA[none]]></VALIDATIONRULE>
+<VALIDATIONMESSAGE><![CDATA[Invalid Input]]></VALIDATIONMESSAGE>
+<COLS>50</COLS>
+<ROWS>5</ROWS>
+<PLACEHOLDER></PLACEHOLDER>
+<WYSIWYG><![CDATA[NO]]></WYSIWYG>
+<WYSIWYGBUTTONS><![CDATA[NO]]></WYSIWYGBUTTONS>
+<MAXSIZE></MAXSIZE>
+<SHOW_CHAR_COUNT><![CDATA[NO]]></SHOW_CHAR_COUNT>
+<ADDITIONALATTRIBUTES></ADDITIONALATTRIBUTES>
+<EMAILATTACH></EMAILATTACH>
+</properties>
+</field>
+</fields>
+<post>
+<enabled>0</enabled>
+<method>1</method>
+<fields><![CDATA[[]]]></fields>
+<silent>1</silent>
+<url><![CDATA[http://]]></url>
+</post>
+</form>
