@@ -1,0 +1,1727 @@
+[
+  {
+    "id": 1512078181064,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "Hero Section 02",
+      "separator1": "",
+      "title": "",
+      "heading_selector": "h2",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_text_color": "#000000",
+      "title_margin_top": "",
+      "title_margin_bottom": "",
+      "separator2": "",
+      "subtitle": "",
+      "subtitle_fontsize": "",
+      "title_position": "sppb-text-left",
+      "columns_equal_height": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "id": "",
+      "class": "",
+      "padding": {
+        "md": "50px 0px 65px 0px",
+        "sm": "100px 0px 50px 0px",
+        "xs": "60px 0px 10px 0px"
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "color": "rgba(255, 255, 255, 1)",
+      "background_color": "",
+      "background_image": "images/BridgeStoryImages/SCOS_DataStory01_GreenBackgroundTexture_72ppi.png",
+      "background_parallax": 0,
+      "overlay": "",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_attachment": "inherit",
+      "background_position": "50% 50%",
+      "background_video": 0,
+      "external_background_video": "0",
+      "background_video_mp4": "",
+      "background_video_ogv": "",
+      "background_external_video": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animation": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "columns_align_center": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0
+    },
+    "layout": "6,6",
+    "columns": [
+      {
+        "id": 1512078181099,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "15px   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512078181100,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "DEVELOPERS NEEDED TO FILL AN “APP GAP” ",
+              "title": "DEVELOPERS NEEDED TO FILL AN “APP GAP” ",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "32",
+                "sm": "50",
+                "xs": "24"
+              },
+              "title_fontstyle": [
+                "bold"
+              ],
+              "title_fontweight": "",
+              "title_lineheight": {
+                "md": "49",
+                "sm": "70",
+                "xs": "36"
+              },
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 2px 0px",
+                "sm": "0px 0px 10px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "0px 0px 0px 0px",
+                "xs": "0px 0px 0px 0px"
+              },
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_width": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_font_style": {
+                "weight": 900
+              },
+              "global_text_color": "#000000"
+            }
+          },
+          {
+            "id": 1512078181101,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_fontstyle": "",
+              "title_letterspace": "0",
+              "title_fontweight": "",
+              "text": "<p>We all praise the GPS apps that help us get around, but there is no current resource that tells drivers if the vehicle they’re operating is too tall for the upcoming bridge. As a truck, bus driver or fleet operator, this is pertinent information that is currently lacking while navigating our streets. Far too often, this results in <a href=\"http://www.delgazette.com/news/61068/can-opener-peels-another-truck\" style=\"color:#ffffff!important;\">\"can opener\" accidents</a>, where the bridge peels off the top of the truck. These “bridge strikes” can cause damage to not only the truck and bridge, but they can sometimes be fatal to the drivers. In addition, <a href=\"http://abc6onyourside.com/news/local/woman-says-debris-fell-onto-the-hood-of-her-car-she-doesnt-want-it-to-happen-to-others\" style=\"color:#ffffff!important;\">many people have been hit by falling bridge debris</a> after the accident.</p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": {
+                "md": "14",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": {
+                "md": "21",
+                "sm": "",
+                "xs": ""
+              },
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "  0px ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "global_animationdelay": "100",
+              "global_text_color": "#000000",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": 1512078181103,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {},
+        "addons": [
+          {
+            "id": 1512078181104,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "This is the second time this year trucks have hit the Norfolk Southern railroad overpass heading to Rickenbacker airport cargo facilities.”  – Village of Lockbourne Mayor, Christie Ward. (Photo credit: Michelle Jones)",
+              "heading_selector": "h5",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "image": "images/BridgeStoryImages/New_SCOS_DataStory01_TruckPhoto_72ppi.png",
+              "alt_text": "SCOS_DataStory01_TruckPhoto",
+              "position": "sppb-text-right",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_margin": {
+                "md": "20px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_use_animation": 0,
+              "title_position": "bottom",
+              "title_font_style": {
+                "italic": true
+              },
+              "title_text_color": "#161515"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512021406244,
+    "visibility": false,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      }
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1512021406243,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          }
+        },
+        "addons": [
+          {
+            "id": 1512054789604,
+            "name": "image",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/BridgeStory_topImg.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512021406236,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "60px 0px 0px 0px",
+        "xs": "60px 0px 0px 0px"
+      },
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "class": ""
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1512021406234,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512021406239,
+            "name": "heading",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "title": "HELP US PLUG THE APP GAP",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "30",
+                "sm": "",
+                "xs": ""
+              },
+              "title_lineheight": {
+                "md": "49",
+                "sm": "",
+                "xs": ""
+              },
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 15px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "30px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "weight": 900
+              },
+              "global_text_color": "#000000"
+            }
+          },
+          {
+            "id": 1512021406242,
+            "name": "text_block",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>All these bridge hits or “bridge strikes” as they’re known in the transportation industry, some deadly, could be prevented.</p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 15px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1512054789609,
+            "name": "raw_html",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "html": "<!--<style type=\"text/css\">\n.wave{\n  background:\n    linear-gradient(#fff, #fff, #fff, #fff, #000);\n  height: auto; \n  position: relative;\n  padding: 20px;\n margin-bottom: 20px;\n}\n.wave::before{\n  content: \"\";\n  position: absolute;\n  left: 0;\n  bottom: 0;\n  right: 0;\n  background-repeat: repeat;\n  height: 10px;\n  background-size: 20px 20px;\n  background-image:\n    radial-gradient(circle at 10px -5px, transparent 12px, #fff 13px);\n}\n.wave::after{\n  content: \"\";\n  position: absolute;\n  left: 0;\n  bottom: 0;\n  right: 0;\n  background-repeat: repeat;\n  height: 15px;\n  background-size: 40px 20px;\n  background-image:\n    radial-gradient(circle at 10px 15px, #fff 12px, transparent 13px);\n\n\n}\n</style>-->\n<div class='wave'>\n<h2>I-270 reopens on south side after truck hits power lines, bridge</h2>\n<h4>July 17, 2017, by NBC4 Staff</h4>\n...\n<p>The truck also took down several utility lines, before the dump bed fell off. The truck then\nslid off the road and ended up in Shawn and Carl Williamson’s backyard.</p>\n<p>The couple said they heard what they thought at first was thunder from inside their home.</p>\n<p>“He was already out of the truck when we got back here,” said Carl. “He was stumbling back here. I could see blood coming out of his face, dripping down his arms.”</p>\n...<br/>\n<a href=\"http://nbc4i.com/2017/07/17/i-270-closed-on-south-side-after-truck-hits-power-lines-bridge\">Read full article at NBC4</a>\n</div>",
+              "class": "",
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "30px 30px 30px 30px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_background": 0,
+              "global_user_border": 1,
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_boder_style": "solid",
+              "global_border_color": "#000000"
+            }
+          },
+          {
+            "id": 1512058748550,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>According to the Ohio Department of Transportation, trucks haul 88% of freight in Ohio. However, this problem is larger than just freight. Many accidents also occur with moving and rental trucks. Local Franklin County officials, who see the same bridges hit over and over, are concerned about the costs of bridge strikes in terms of safety, commuter frustration and lost time for the 1,799 Columbus-based logistics, delivery and trucking companies.</p>\n<p>There are 762 bridges in Franklin County, but information on their dimensions is often scattered and hard find. We believe there’s opportunity to fill this “app gap” and help motorists navigate their way around – or under – Columbus bridges.</p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "20px 0px 20px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "15px 15px 15px 15px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512066139070,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "  50px ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "background_color": "#FFA200",
+      "class": " padding-top-0"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1512066139069,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 1,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512066863548,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "There are 27,000+ bridges in Ohio, the 2nd highest count in the country, and there are 762 in Franklin County with many at risk for bridge hits.",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "20px 0px 20px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "weight": 900,
+                "uppercase": true
+              },
+              "global_text_color": "#000000"
+            }
+          },
+          {
+            "id": 1512066863545,
+            "name": "raw_html",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "html": "<div class='tableauPlaceholder' id='viz1513882584819' style='position: relative'><noscript><a href='https://ckan.dev.smartcolumbuside.com/dataset/odot-bridges'><img alt='Dashboard 1 ' src='https://public.tableau.com/static/images/Br/BridgeswithVertClearance/Dashboard1/1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='BridgeswithVertClearance/Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https://public.tableau.com/static/images/Br/BridgeswithVertClearance/Dashboard1/1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='filter' value='publish=yes' /></object></div>  <script type='text/javascript'>var divElement = document.getElementById('viz1513882584819');var vizElement = divElement.getElementsByTagName('object')[0];vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';var scriptElement = document.createElement('script');scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';vizElement.parentNode.insertBefore(scriptElement, vizElement);</script>",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "20px 0px 20px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512081174325,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "  30px ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "background_color": "",
+      "class": " padding-top-0"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1512081174326,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          }
+        },
+        "addons": [
+          {
+            "id": 1512081174327,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "GPS 2.0",
+              "title": "GPS 2.0",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "30px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "weight": 900
+              }
+            }
+          },
+          {
+            "id": 1512081837866,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "GPS Intro Line",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>Smart Columbus spoke with truckers, app developers, engineers, police officers, logistics companies, government agencies and researchers and found that the Ohio Department of Transportation (ODOT) spends $1 million annually to fix bridges hit by oversize vehicles. One recent bridge strike alone was estimated to have caused $210,000 in damage. While ODOT pursues reimbursement from insurance companies, time and resources could be saved if data on bridge dimensions could be applied to help avoid such collisions in the first place.</p>\n<p>Meanwhile, many bridge strikes aren’t reported unless the truck gets stuck. We believe there’s an opportunity to create apps or other solutions that could facilitate the reporting of bridge strikes, so officials could more proactively understand and address bridge damage.</p>\n<p>That’s why we’re publishing the following data on bridge dimensions in Franklin County. By sharing this data, we hope the development community will help us innovate solutions that can prevent bridge strikes, proactively re-route oversized trucks, make it easier to report bridge damage and more.</p>\n<p>Together, let’s unlock the potential of this data to make our roads and bridges easier to drive on, more cost effective to manage and safer for everyone.</p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_margin": {
+                "md": "10px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              }
+            }
+          },
+          {
+            "id": 1512081174346,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "BRIDGE DATA SETS AVAILABLE",
+              "title": "BRIDGE DATA SETS AVAILABLE",
+              "heading_selector": "h4",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "10px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "10px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "weight": 900
+              },
+              "global_text_color": "#e81e75!important"
+            }
+          },
+          {
+            "id": 1512081174328,
+            "name": "raw_html",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Bridge iFrame",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "html": "<div class=\"h_iframe\">\n<iframe src=\"https://ckan.smartcolumbusos.com/dataset/odot-bridges/resource/f9a0b14d-b985-403a-a775-de45c2159ede/view/747ee7b9-025a-4b26-88ea-0a1525cecd80\" frameBorder=\"0\" scrolling=\"no\"></iframe>\n</div>",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 1,
+              "global_margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_border_color": "#000000",
+              "global_boder_style": "solid",
+              "title_text_color": "#e81e75"
+            }
+          },
+          {
+            "id": 1512081837861,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "GETTING INTO THE DATA VIA API END POINTS",
+              "title": "GETTING INTO THE DATA VIA API END POINTS",
+              "heading_selector": "h4",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "20px 0px 20px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "weight": 900
+              },
+              "global_text_color": "#e81e75!important"
+            }
+          },
+          {
+            "id": 1512081174333,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "The Data API can be accessed via the following actions of the CKAN action API.",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>The Data API can be accessed via the following actions of the CKAN action API.</p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              }
+            }
+          },
+          {
+            "id": 1512081837871,
+            "name": "raw_html",
+            "visibility": true,
+            "settings": {
+              "admin_label": "API End points Table",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "html": "<style type=\"text/css\">\ntable{\nwidth:1100px; \nborder:1px solid #000;\n}\ntd {\n    padding: 8px;\n}\n\n</style>\n<table>\n    <tr>\n      <td style=\"background-color:#000; color:#fff;\">Create</td>\n      <td style=\"border-top:none;\">https://ckan.smartcolumbusos.com/api/action/datastore_create</td>\n    </tr>\n    <tr>\n      <td style=\"background-color:#000; color:#fff;\">Update/Insert</td>\n      <td style=\"background-color:#C3C3C3; color:#000\">https://ckan.smartcolumbusos.com/api/action/datastore_upsert</td>\n    </tr>\n    <tr>\n      <td style=\"background-color:#000; color:#fff;\">Query</td>\n      <td>https://ckan.smartcolumbusos.com/api/action/datastore_search</td>\n    </tr>\n    <tr>\n      <td style=\"background-color:#000; color:#fff;\">Query (via SQL)</td>\n      <td style=\"background-color:#C3C3C3; color:#000;\">https://ckan.smartcolumbusos.com/api/action/datastore_search_sql</td>\n    </tr>\n    <tr>\n      <td style=\"background-color:#000; color:#fff;\">OData</td>\n      <td>https://ckan.smartcolumbusos.com/datastore/odata3.0/5fc21aab-daa8-41d2-ac2d-f348f7caa9b6</td>\n    </tr>\n</table>",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "10px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1512081837878,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "EXAMPLES ON HOW TO QUERY THE DATA",
+              "title": "EXAMPLES ON HOW TO QUERY THE DATA",
+              "heading_selector": "h4",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "30px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "weight": 900
+              },
+              "global_text_color": "#e81e75!important"
+            }
+          },
+          {
+            "id": 1512081837883,
+            "name": "raw_html",
+            "visibility": true,
+            "settings": {
+              "admin_label": "EXAMPLES ON HOW TO QUERY THE DATA content",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "html": "<p>Query example (first 5 results)</p>\n<p><i style=\"padding-left:20px;\" class=\"fa fa-arrow-right\" aria-hidden=\"true\"></i>&nbsp;&nbsp;<a href=\"https://ckan.smartcolumbusos.com/api/action/datastore_search?resource_id=d01462c5-6069-471b-bdf3-d9acd4aa4572&limit=5\">https://ckan.smartcolumbusos.com/api/action/datastore_search?resource_id=d01462c5-6069-471b-bdf3-d9acd4aa4572&limit=5</a></p>\n<p>Query example (results containing 'jones')</p>\n<p><i style=\"padding-left:20px;\" class=\"fa fa-arrow-right\" aria-hidden=\"true\"></i>&nbsp;&nbsp;<a href=\"https://ckan.smartcolumbusos.com/api/action/datastore_search?resource_id=d01462c5-6069-471b-bdf3-d9acd4aa4572&q=jones\">https://ckan.smartcolumbusos.com/api/action/datastore_search?resource_id=d01462c5-6069-471b-bdf3-d9acd4aa4572&q=jones</a></p>\n<p>Query example (via SQL statement)</p>\n<p><i style=\"padding-left:20px;\" class=\"fa fa-arrow-right\" aria-hidden=\"true\"></i>&nbsp;&nbsp;<a href=\"https://ckan.smartcolumbusos.com/api/action/datastore_search_sql?sql=SELECT * from\n\"d01462c5-6069-471b-bdf3-d9acd4aa4572\" WHERE title LIKE jones\">https://ckan.smartcolumbusos.com/api/action/datastore_search_sql?sql=SELECT * from\n\"d01462c5-6069-471b-bdf3-d9acd4aa4572\" WHERE title LIKE 'jones'</a></p>\n<p>OData example (first 5 results, skip 1)</p>\n<p><i style=\"padding-left:20px;\" class=\"fa fa-arrow-right\" aria-hidden=\"true\"></i>&nbsp;&nbsp;<a href=\"https://ckan.smartcolumbusos.com/datastore/odata3.0/d01462c5-6069-471b-bdf3-d9acd4aa4572?$top=5&$skip=1\">https://ckan.smartcolumbusos.com/datastore/odata3.0/d01462c5-6069-471b-bdf3-d9acd4aa4572?$top=5&$skip=1</a></p>\n<p>OData example (first 5 results, return as OData JSON)</p>\n<p><i style=\"padding-left:20px;\" class=\"fa fa-arrow-right\" aria-hidden=\"true\"></i>&nbsp;&nbsp;<a href=\"https://ckan.smartcolumbusos.com/datastore/odata3.0/d01462c5-6069-471b-bdf3-d9acd4aa4572?$top=5&$format=json\">https://ckan.smartcolumbusos.com/datastore/odata3.0/d01462c5-6069-471b-bdf3-d9acd4aa4572?$top=5&$format=json</a></p>",
+              "class": "",
+              "global_margin": {
+                "md": "0px   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1512081837888,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "CODING EXAMPLES",
+              "title": "CODING EXAMPLES",
+              "heading_selector": "h4",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 30px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "30px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "weight": 900
+              },
+              "global_text_color": "#e81e75!important"
+            }
+          },
+          {
+            "id": 1512081837893,
+            "name": "raw_html",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Coding Example script",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "html": "<div style=\"border-top:5px solid #000000; background-color:#d9d9d9; padding:35px; font-family:Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace; font-size:16px; word-wrap:break-word!important;\">\n<b>Java Script (jQuery 3.1.0)</b><br/>\nA simple ajax (JSONP) request to the data API using jQuery.<br/>\n<-script src=\"//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js\"><-/script-><br/>\n<-script><br/>\n&nbsp;&nbsp;var data = {<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;resource_id: 'd01462c5-6069-471b-bdf3-d9acd4aa4572', // the resource id<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;limit: 5, // get 5 results<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;q: 'jones' // query for 'jones'<br/>\n&nbsp;&nbsp;};<br/>\n&nbsp;&nbsp;jQuery.ajax({<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;url: 'https://ckan.smartcolumbusos.com/api/action/datastore_search',<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;data: data,<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;dataType: 'jsonp',<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;success: function(data) {<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert('Total results found: ' + data.result.total)<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br/>\n&nbsp;&nbsp;});<br/>\n<-/script-><br/><br/>\n<b>#Python 3.5</b><br/>\nimport urllib3<br/>\nimport certifi<br/>\nhttps = urllib3.PoolManager(<br/>\ncert_reqs='CERT_REQUIRED',<br/>\nca_certs=certifi.where())<br/>\nurl='https://ckan.smartcolumbusos.com/api/action/datastore_search?resource_id=d01462c5-6069-471b-bdf3-d9acd4aa4572&limit=5'<br/>\nfileobj = https.request('GET',url)<br/>\nprint (fileobj.data)<br/>\n</div>",
+              "class": "",
+              "global_margin": {
+                "md": "0px   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512081837902,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "Hero Section 02",
+      "separator1": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_text_color": "",
+      "title_margin_top": "",
+      "title_margin_bottom": "",
+      "separator2": "",
+      "subtitle": "",
+      "subtitle_fontsize": "",
+      "title_position": "sppb-text-left",
+      "columns_equal_height": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "id": "",
+      "class": "",
+      "padding": {
+        "md": "   ",
+        "sm": "100px 0px 50px 0px",
+        "xs": "60px 0px 10px 0px"
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "color": "rgba(255, 255, 255, 1)",
+      "background_color": "",
+      "background_image": "",
+      "background_parallax": 0,
+      "overlay": "",
+      "background_repeat": "no-repeat",
+      "background_size": "inherit",
+      "background_attachment": "scroll",
+      "background_position": "100% 100%",
+      "background_video": 0,
+      "external_background_video": "0",
+      "background_video_mp4": "",
+      "background_video_ogv": "",
+      "background_external_video": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animation": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "columns_align_center": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0
+    },
+    "layout": "6,6",
+    "columns": [
+      {
+        "id": 1512081837889,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512081837890,
+            "name": "heading",
+            "visibility": false,
+            "settings": {
+              "admin_label": "FOR THE GREATER GOOD",
+              "title": "FOR THE GREATER GOOD",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "36",
+                "sm": "50",
+                "xs": "24"
+              },
+              "title_fontstyle": [
+                "bold"
+              ],
+              "title_fontweight": "",
+              "title_lineheight": {
+                "md": "49",
+                "sm": "70",
+                "xs": "36"
+              },
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "px 0px 0px 0px",
+                "sm": "0px 0px 10px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "0px 0px 0px 0px",
+                "xs": "0px 0px 0px 0px"
+              },
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_width": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_font_style": {
+                "weight": 800
+              },
+              "global_text_color": "#000000"
+            }
+          },
+          {
+            "id": 1512081837891,
+            "name": "text_block",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_fontstyle": "",
+              "title_letterspace": "0",
+              "title_fontweight": "",
+              "text": "<p class=\"p1\"><span class=\"s1\">Local Franklin County officials, who see the same bridges getting hit over and over, are concerned about the costs in safety, commuter frustration when roads shut down, and in lost time for the 1,799* Columbus-based logistics, delivery and trucking companies.</span></p>\n<p class=\"p1\"><span class=\"s1\"><br />Even truck drivers with an oversize vehicle permit who know precisely what roads to take need this yet-to-be-created app. Because they’re human and have to go off their preset route to get food, find a place to sleep or to use a bathroom. When they do, they end up stuck under a bridge.<br /></span></p>\n<p class=\"p1\"><span class=\"s1\"><br />Smart Columbus is about “using mobility options to improve opportunities for people.” Help us make the ride smoother for everyone.</span></p>\n<p class=\"p1\"><span class=\"s1\"><br />*Source: Columbus Chamber of Commerce</span></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": {
+                "md": "14",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": {
+                "md": "21",
+                "sm": "",
+                "xs": ""
+              },
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "global_animationdelay": "100",
+              "global_text_color": "#000000",
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "use_global_width": 0
+            }
+          },
+          {
+            "id": 1512081837892,
+            "name": "button",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "text": "Get Started",
+              "alignment": "sppb-text-left",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "outline",
+              "background_color": "#fff",
+              "color": "#FFFFFF",
+              "background_color_hover": "#fff",
+              "color_hover": "rgba(0, 0, 0, 0.7)",
+              "button_padding": {
+                "md": "12px 30px 12px 30px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "left",
+              "class": "",
+              "url": "#",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "  30px ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_text_color": "#fff",
+              "font_style": {
+                "weight": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1512081837893,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "50px   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512081837894,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "image": "images/BridgeStoryImages/SCOS_DataStory01_SMRT_Footer.png",
+              "alt_text": "Image",
+              "position": "sppb-text-right",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
