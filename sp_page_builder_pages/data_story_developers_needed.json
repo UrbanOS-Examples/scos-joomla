@@ -1097,7 +1097,7 @@
               "title_fontsize": "",
               "title_lineheight": "",
               "title_letterspace": "0",
-              "html": "<div class=\"h_iframe\">\n<iframe src=\"https://ckan.smartcolumbusos.com/dataset/odot-bridges/resource/f9a0b14d-b985-403a-a775-de45c2159ede/view/747ee7b9-025a-4b26-88ea-0a1525cecd80\" frameBorder=\"0\" scrolling=\"no\"></iframe>\n</div>",
+              "html": "<div class=\"h_iframe\">\n<iframe src=\"https://ckan.smartcolumbusos.com/dataset/odot-bridges\" frameBorder=\"0\"></iframe>\n</div>",
               "class": "",
               "global_use_background": 0,
               "global_user_border": 1,
