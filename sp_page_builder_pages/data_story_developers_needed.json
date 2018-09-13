@@ -1235,7 +1235,7 @@
           {
             "id": 1512081837878,
             "name": "heading",
-            "visibility": true,
+            "visibility": false,
             "settings": {
               "admin_label": "EXAMPLES ON HOW TO QUERY THE DATA",
               "title": "EXAMPLES ON HOW TO QUERY THE DATA",
@@ -1285,7 +1285,7 @@
           {
             "id": 1512081837883,
             "name": "raw_html",
-            "visibility": true,
+            "visibility": false,
             "settings": {
               "admin_label": "EXAMPLES ON HOW TO QUERY THE DATA content",
               "title": "",
@@ -1375,7 +1375,7 @@
               "title_fontsize": "",
               "title_lineheight": "",
               "title_letterspace": "0",
-              "html": "<div style=\"border-top:5px solid #000000; background-color:#d9d9d9; padding:35px; font-family:Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace; font-size:16px; word-wrap:break-word!important;\">\n<b>Java Script (jQuery 3.1.0)</b><br/>\nA simple ajax (JSONP) request to the data API using jQuery.<br/>\n<-script src=\"//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js\"><-/script-><br/>\n<-script><br/>\n&nbsp;&nbsp;var data = {<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;resource_id: 'd01462c5-6069-471b-bdf3-d9acd4aa4572', // the resource id<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;limit: 5, // get 5 results<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;q: 'jones' // query for 'jones'<br/>\n&nbsp;&nbsp;};<br/>\n&nbsp;&nbsp;jQuery.ajax({<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;url: 'https://ckan.smartcolumbusos.com/api/action/datastore_search',<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;data: data,<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;dataType: 'jsonp',<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;success: function(data) {<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert('Total results found: ' + data.result.total)<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br/>\n&nbsp;&nbsp;});<br/>\n<-/script-><br/><br/>\n<b>#Python 3.5</b><br/>\nimport urllib3<br/>\nimport certifi<br/>\nhttps = urllib3.PoolManager(<br/>\ncert_reqs='CERT_REQUIRED',<br/>\nca_certs=certifi.where())<br/>\nurl='https://ckan.smartcolumbusos.com/api/action/datastore_search?resource_id=d01462c5-6069-471b-bdf3-d9acd4aa4572&limit=5'<br/>\nfileobj = https.request('GET',url)<br/>\nprint (fileobj.data)<br/>\n</div>",
+              "html": "<div style=\"border-top:5px solid #000000; background-color:#d9d9d9; padding:35px; font-family:Courier New, Courier, Lucida Sans Typewriter, Lucida Typewriter, monospace; font-size:16px; word-wrap:break-word!important;\">\n<b>Java Script (jQuery 3.1.0)</b><br/>\nA simple ajax (JSONP) request to the data API using jQuery.<br/>\n<-script src=\"//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js\"><-/script-><br/>\n<-script><br/>\n&nbsp;&nbsp;var data = {<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;resource_id: '${RESOURCE_ID}', // the resource id<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;limit: 5, // get 5 results<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;q: 'jones' // query for 'jones'<br/>\n&nbsp;&nbsp;};<br/>\n&nbsp;&nbsp;jQuery.ajax({<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;url: 'https://ckan.smartcolumbusos.com/api/action/datastore_search',<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;data: data,<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;dataType: 'jsonp',<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;success: function(data) {<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;alert('Total results found: ' + data.result.total)<br/>\n&nbsp;&nbsp;&nbsp;&nbsp;}<br/>\n&nbsp;&nbsp;});<br/>\n<-/script-><br/><br/>\n<b>#Python 3.5</b><br/>\nimport urllib3<br/>\nimport certifi<br/>\nhttps = urllib3.PoolManager(<br/>\ncert_reqs='CERT_REQUIRED',<br/>\nca_certs=certifi.where())<br/>\nurl=f'https://ckan.smartcolumbusos.com/api/action/datastore_search?resource_id={RESOURCE_ID}&limit=5'<br/>\nfileobj = https.request('GET',url)<br/>\nprint (fileobj.data)<br/>\n</div>",
               "class": "",
               "global_margin": {
                 "md": "0px   ",
