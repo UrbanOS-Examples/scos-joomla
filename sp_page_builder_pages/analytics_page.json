@@ -1,619 +1,817 @@
 [
     {
-      "id": 1513221265950,
-      "visibility": true,
-      "collapse": false,
-      "settings": {
-        "admin_label": "",
-        "title": "",
-        "heading_selector": "h3",
-        "title_fontsize": "",
-        "title_fontweight": "",
-        "title_position": "sppb-text-center",
-        "columns_align_center": 0,
-        "fullscreen": 0,
-        "no_gutter": 0,
-        "padding": {
-          "md": "10px 0px 10px 0px",
-          "sm": "   ",
-          "xs": "   "
-        },
-        "margin": {
-          "md": "0px 0px 0px 0px",
-          "sm": "   ",
-          "xs": "   "
-        },
-        "background_image": "",
-        "background_parallax": 0,
-        "background_repeat": "no-repeat",
-        "background_size": "cover",
-        "background_attachment": "fixed",
-        "background_position": "0 0",
-        "background_video": 0,
-        "external_background_video": "0",
-        "show_top_shape": 0,
-        "shape_name": "clouds-flat",
-        "shape_color": "#e5e5e5",
-        "shape_width": {
-          "md": 100,
-          "sm": 100,
-          "xs": 100
-        },
-        "shape_height": "",
-        "shape_flip": false,
-        "shape_invert": false,
-        "shape_to_front": false,
-        "show_bottom_shape": 0,
-        "bottom_shape_name": "clouds-opacity",
-        "bottom_shape_color": "#e5e5e5",
-        "bottom_shape_width": {
-          "md": 100,
-          "sm": 100,
-          "xs": 100
-        },
-        "bottom_shape_height": "",
-        "bottom_shape_flip": false,
-        "bottom_shape_invert": false,
-        "bottom_shape_to_front": false,
-        "hidden_xs": 0,
-        "hidden_sm": 0,
-        "hidden_md": 0,
-        "animationduration": "300",
-        "animationdelay": "0",
-        "background_color": "#fda128"
-      },
-      "layout": "12",
-      "columns": [
-        {
-          "id": 1513221265949,
-          "class_name": "col-md-12",
-          "visibility": true,
-          "settings": {
+        "id": 1513221265950,
+        "visibility": true,
+        "collapse": false,
+        "settings": {
+            "admin_label": "",
+            "title": "",
+            "heading_selector": "h3",
+            "title_fontsize": "",
+            "title_fontweight": "",
+            "title_position": "sppb-text-center",
+            "columns_align_center": 0,
+            "fullscreen": 0,
+            "no_gutter": 0,
+            "padding": {
+                "md": "10px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+            },
+            "margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+            },
             "background_image": "",
+            "background_parallax": 0,
             "background_repeat": "no-repeat",
             "background_size": "cover",
-            "background_attachment": "scroll",
+            "background_attachment": "fixed",
             "background_position": "0 0",
-            "items_align_center": 0,
-            "boxshadow": "0 0 0 0 #fff",
-            "sm_col": "",
-            "xs_col": "",
+            "background_video": 0,
+            "external_background_video": "0",
+            "show_top_shape": 0,
+            "shape_name": "clouds-flat",
+            "shape_color": "#e5e5e5",
+            "shape_width": {
+                "md": 100,
+                "sm": 100,
+                "xs": 100
+            },
+            "shape_height": "",
+            "shape_flip": false,
+            "shape_invert": false,
+            "shape_to_front": false,
+            "show_bottom_shape": 0,
+            "bottom_shape_name": "clouds-opacity",
+            "bottom_shape_color": "#e5e5e5",
+            "bottom_shape_width": {
+                "md": 100,
+                "sm": 100,
+                "xs": 100
+            },
+            "bottom_shape_height": "",
+            "bottom_shape_flip": false,
+            "bottom_shape_invert": false,
+            "bottom_shape_to_front": false,
             "hidden_xs": 0,
             "hidden_sm": 0,
             "hidden_md": 0,
             "animationduration": "300",
             "animationdelay": "0",
-            "padding": {
-              "md": "15px 0px 15px 0px",
-              "sm": "   ",
-              "xs": "   "
-            },
-            "background": "#000000",
-            "margin": {
-              "md": "   ",
-              "sm": "   ",
-              "xs": "   "
-            },
-            "use_border": 0
-          },
-          "addons": [
+            "background_color": "#fda128"
+        },
+        "layout": "12",
+        "columns": [
             {
-              "id": 1513221265957,
-              "name": "heading",
-              "visibility": true,
-              "settings": {
-                "admin_label": "Analytics",
-                "title": "Analytics",
-                "heading_selector": "h2",
-                "use_link": 0,
-                "title_link": "",
-                "link_new_tab": "",
-                "title_fontsize": {
-                  "md": "36",
-                  "sm": "",
-                  "xs": ""
+                "id": 1513221265949,
+                "class_name": "col-md-12",
+                "visibility": true,
+                "settings": {
+                    "background_image": "",
+                    "background_repeat": "no-repeat",
+                    "background_size": "cover",
+                    "background_attachment": "scroll",
+                    "background_position": "0 0",
+                    "items_align_center": 0,
+                    "boxshadow": "0 0 0 0 #fff",
+                    "sm_col": "",
+                    "xs_col": "",
+                    "hidden_xs": 0,
+                    "hidden_sm": 0,
+                    "hidden_md": 0,
+                    "animationduration": "300",
+                    "animationdelay": "0",
+                    "padding": {
+                        "md": "15px 0px 15px 0px",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "background": "#000000",
+                    "margin": {
+                        "md": "   ",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "use_border": 0
                 },
-                "title_lineheight": "",
-                "title_letterspace": "0",
-                "title_margin": {
-                  "md": "10px 0px 10px 0px",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "title_padding": {
-                  "md": "0px 0px 0px 0px",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "title_icon_position": "before",
-                "alignment": "sppb-text-center",
-                "class": "",
-                "global_use_background": 0,
-                "global_user_border": 0,
-                "global_margin": {
-                  "md": "10px 0px 20px 0px",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "global_padding": {
-                  "md": "   ",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "global_use_animation": 0,
-                "use_global_width": 0,
-                "hidden_md": 0,
-                "hidden_sm": 0,
-                "hidden_xs": 0,
-                "global_text_color": "#ffffff",
-                "title_font_style": {
-                  "weight": 900,
-                  "uppercase": true
-                },
-                "instFormId": 1513221265957
-              }
+                "addons": [
+                    {
+                        "id": 1513221265957,
+                        "name": "heading",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "Analytics",
+                            "title": "Analytics",
+                            "heading_selector": "h2",
+                            "use_link": 0,
+                            "title_link": "",
+                            "link_new_tab": "",
+                            "title_fontsize": {
+                                "md": "36",
+                                "sm": "",
+                                "xs": ""
+                            },
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "title_margin": {
+                                "md": "10px 0px 10px 0px",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "title_padding": {
+                                "md": "0px 0px 0px 0px",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "title_icon_position": "before",
+                            "alignment": "sppb-text-center",
+                            "class": "",
+                            "global_use_background": 0,
+                            "global_user_border": 0,
+                            "global_margin": {
+                                "md": "10px 0px 20px 0px",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_use_animation": 0,
+                            "use_global_width": 0,
+                            "hidden_md": 0,
+                            "hidden_sm": 0,
+                            "hidden_xs": 0,
+                            "global_text_color": "#ffffff",
+                            "title_font_style": {
+                                "weight": 900,
+                                "uppercase": true
+                            },
+                            "instFormId": 1513221265957
+                        }
+                    }
+                ]
             }
-          ]
-        }
-      ]
+        ]
     },
     {
-      "id": 1509400848921,
-      "visibility": true,
-      "collapse": false,
-      "settings": {
-        "padding": {
-          "md": "0 0px 50px 0px",
-          "sm": "   ",
-          "xs": "   "
-        },
-        "margin": {
-          "md": "0px 0px 0px 0px",
-          "sm": "   ",
-          "xs": "   "
-        },
-        "columns_align_center": 0,
-        "fullscreen": 0,
-        "no_gutter": 1,
-        "background_parallax": 0,
-        "background_video": 0,
-        "show_top_shape": 0,
-        "show_bottom_shape": 0,
-        "background_color": "#fda128",
-        "hidden_xs": 0,
-        "hidden_sm": 0,
-        "hidden_md": 0,
-        "background_image": "images/Assets/SCOS_DataStory_RectangleStripedSquares_ScreenedWhite.png",
-        "background_repeat": "no-repeat",
-        "background_size": "inherit",
-        "background_position": "100% 100%",
-        "instFormId": 1509400848921,
-        "class": " padding-top-15"
-      },
-      "layout": "3,9",
-      "columns": [
-        {
-          "id": 1509400848922,
-          "class_name": "col-md-3",
-          "visibility": true,
-          "settings": {
-            "default": {
-              "background_image": "",
-              "background_repeat": "no-repeat",
-              "background_size": "cover",
-              "background_attachment": "scroll",
-              "background_position": "0 0",
-              "items_align_center": 0,
-              "boxshadow": "0 0 0 0 #fff",
-              "sm_col": "",
-              "xs_col": "",
-              "hidden_xs": "",
-              "hidden_sm": "",
-              "hidden_md": "",
-              "animationduration": "300",
-              "animationdelay": "0"
-            },
-            "items_align_center": 0,
+        "id": 1509400848921,
+        "visibility": true,
+        "collapse": false,
+        "settings": {
             "padding": {
-              "md": "25px 20px 50px 20px",
-              "sm": "   ",
-              "xs": "   "
+                "md": "0 0px 50px 0px",
+                "sm": "   ",
+                "xs": "   "
             },
+            "margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+            },
+            "columns_align_center": 0,
+            "fullscreen": 0,
+            "no_gutter": 1,
+            "background_parallax": 0,
+            "background_video": 0,
+            "show_top_shape": 0,
+            "show_bottom_shape": 0,
+            "background_color": "#fda128",
             "hidden_xs": 0,
             "hidden_sm": 0,
             "hidden_md": 0,
-            "background": "#ffffff",
-            "margin": {
-              "md": "   ",
-              "sm": "   ",
-              "xs": "   "
-            },
-            "use_border": 0
-          },
-          "addons": [
-            {
-              "id": 1536613202021,
-              "name": "image",
-              "visibility": true,
-              "settings": {
-                "admin_label": "",
-                "title": "",
-                "heading_selector": "h3",
-                "title_fontsize": "",
-                "title_lineheight": "",
-                "title_letterspace": "0",
-                "title_position": "top",
-                "image": "images/jupyterhub/jupyter-long.png",
-                "border_radius": 0,
-                "alt_text": "Jupyter.org Logo",
-                "position": "sppb-text-center",
-                "open_lightbox": 0,
-                "overlay_color": "rgba(119, 219, 31, .5)",
-                "link": "",
-                "class": "",
-                "global_background_type": "none",
-                "global_background_gradient": {
-                  "color": "#00c6fb",
-                  "color2": "#005bea",
-                  "deg": "45",
-                  "type": "linear"
-                },
-                "global_use_overlay": 0,
-                "global_background_repeat": "no-repeat",
-                "global_background_size": "cover",
-                "global_background_attachment": "inherit",
-                "global_user_border": 0,
-                "global_border_width": "",
-                "global_border_radius": 0,
-                "global_margin": {
-                  "md": "0 0 16px 0",
-                  "sm": "0 0 16px 0",
-                  "xs": "0 0 16px 0"
-                },
-                "global_padding": {
-                  "md": "   ",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "global_boxshadow": "0 0 0 0 #ffffff",
-                "global_use_animation": 0,
-                "global_animationduration": "300",
-                "global_animationdelay": "0",
-                "global_custom_css": "",
-                "use_global_width": "0",
-                "hidden_md": "0",
-                "hidden_sm": "0",
-                "hidden_xs": "0",
-                "acl": ""
-              }
-            },
-            {
-              "id": 1536613202024,
-              "name": "text_block",
-              "visibility": true,
-              "settings": {
-                "admin_label": "JupyterText",
-                "title": "",
-                "heading_selector": "h3",
-                "title_fontsize": "",
-                "title_lineheight": "",
-                "title_letterspace": "0",
-                "text": "<p>Jupyter is an open-source analytics notebook for data scientist for anlyzing and visualizing data. To learn more about Jupyter’s capabilities, view documents, and get support visit their website.</p>",
-                "alignment": "",
-                "text_fontsize": "",
-                "text_lineheight": "",
-                "dropcap": 0,
-                "class": "",
-                "global_background_type": "none",
-                "global_background_gradient": {
-                  "color": "#00c6fb",
-                  "color2": "#005bea",
-                  "deg": "45",
-                  "type": "linear"
-                },
-                "global_use_overlay": 0,
-                "global_background_repeat": "no-repeat",
-                "global_background_size": "cover",
-                "global_background_attachment": "inherit",
-                "global_user_border": 0,
-                "global_border_width": "",
-                "global_border_radius": 0,
-                "global_margin": {
-                  "md": "0 0 15px 0",
-                  "sm": "0 0 20px 0",
-                  "xs": "0 0 10px 0"
-                },
-                "global_padding": {
-                  "md": "   ",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "global_boxshadow": "0 0 0 0 #ffffff",
-                "global_use_animation": 0,
-                "global_animationduration": "300",
-                "global_animationdelay": "0",
-                "global_custom_css": "",
-                "use_global_width": "0",
-                "hidden_md": "0",
-                "hidden_sm": "0",
-                "hidden_xs": "0",
-                "acl": ""
-              }
-            },
-            {
-              "id": 1536613202027,
-              "name": "button",
-              "visibility": true,
-              "settings": {
-                "admin_label": "LearnMoreAboutJupyter",
-                "text": "Learn More About Jupyter",
-                "alignment": "sppb-text-center",
-                "letterspace": "0",
-                "type": "custom",
-                "appearance": "",
-                "fontsize": {
-                  "md": 16
-                },
-                "button_status": "hover",
-                "background_color": "#000000",
-                "background_gradient": {
-                  "color": "#B4EC51",
-                  "color2": "#429321",
-                  "deg": "45",
-                  "type": "linear"
-                },
-                "color": "#FFFFFF",
-                "background_color_hover": "#00aeef",
-                "background_gradient_hover": {
-                  "color": "#429321",
-                  "color2": "#B4EC51",
-                  "deg": "45",
-                  "type": "linear"
-                },
-                "color_hover": "#FFFFFF",
-                "button_padding": {
-                  "md": "   ",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "icon_position": "left",
-                "class": "",
-                "global_background_type": "none",
-                "global_background_gradient": {
-                  "color": "#00c6fb",
-                  "color2": "#005bea",
-                  "deg": "45",
-                  "type": "linear"
-                },
-                "global_use_overlay": 0,
-                "global_background_repeat": "no-repeat",
-                "global_background_size": "cover",
-                "global_background_attachment": "inherit",
-                "global_user_border": 0,
-                "global_border_width": "",
-                "global_border_radius": 0,
-                "global_margin": {
-                  "md": "0 0 30px 0",
-                  "sm": "0 0 20px 0",
-                  "xs": "0 0 10px 0"
-                },
-                "global_padding": {
-                  "md": "   ",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "global_boxshadow": "0 0 0 0 #ffffff",
-                "global_use_animation": 0,
-                "global_animationduration": "300",
-                "global_animationdelay": "0",
-                "global_custom_css": "",
-                "use_global_width": "0",
-                "hidden_md": "0",
-                "hidden_sm": "0",
-                "hidden_xs": "0",
-                "acl": "",
-                "url": "https://jupyter.org",
-                "target": "_blank",
-                "shape": "square",
-                "block": "sppb-btn-block",
-                "global_boder_style": "solid"
-              }
-            },
-            {
-              "id": 1536668461952,
-              "name": "text_block",
-              "visibility": true,
-              "settings": {
-                "admin_label": "JupyterSeparator",
-                "title": "",
-                "heading_selector": "h3",
-                "title_fontsize": "",
-                "title_lineheight": "",
-                "title_letterspace": "0",
-                "text": "",
-                "alignment": "",
-                "text_fontsize": "",
-                "text_lineheight": "",
-                "dropcap": 0,
-                "class": "jupyter-separator",
-                "global_background_type": "none",
-                "global_background_gradient": {
-                  "color": "#00c6fb",
-                  "color2": "#005bea",
-                  "deg": "45",
-                  "type": "linear"
-                },
-                "global_use_overlay": 0,
-                "global_background_repeat": "no-repeat",
-                "global_background_size": "cover",
-                "global_background_attachment": "inherit",
-                "global_user_border": 0,
-                "global_border_width": "",
-                "global_border_radius": 0,
-                "global_margin": {
-                  "md": "0 0 30px 0",
-                  "sm": "0 0 20px 0",
-                  "xs": "0 0 10px 0"
-                },
-                "global_padding": {
-                  "md": "   ",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "global_boxshadow": "0 0 0 0 #ffffff",
-                "global_use_animation": 0,
-                "global_animationduration": "300",
-                "global_animationdelay": "0",
-                "global_custom_css": ".jupyter-separator {\n  border-top: 1px solid;\n}",
-                "use_global_width": "0",
-                "hidden_md": "0",
-                "hidden_sm": "0",
-                "hidden_xs": "0",
-                "acl": ""
-              }
-            },
-            {
-              "id": 1536613202032,
-              "name": "text_block",
-              "visibility": true,
-              "settings": {
-                "admin_label": "AlreadyHaveAccount",
-                "title": "",
-                "heading_selector": "h3",
-                "title_fontsize": "",
-                "title_lineheight": "",
-                "title_letterspace": "0",
-                "text": "<strong>Already have an account?</strong>\n<br />\n<a href=\"http://jupyter.smartcolumbusos.com\" target=\"_blank\" rel=\"noopener\">Sign In →</a>",
-                "alignment": "",
-                "text_fontsize": "",
-                "text_lineheight": "",
-                "dropcap": 0,
-                "class": "",
-                "global_background_type": "none",
-                "global_background_gradient": {
-                  "color": "#00c6fb",
-                  "color2": "#005bea",
-                  "deg": "45",
-                  "type": "linear"
-                },
-                "global_use_overlay": 0,
-                "global_background_repeat": "no-repeat",
-                "global_background_size": "cover",
-                "global_background_attachment": "inherit",
-                "global_user_border": 0,
-                "global_border_width": "",
-                "global_border_radius": 0,
-                "global_margin": {
-                  "md": "0 0 30px 0",
-                  "sm": "0 0 20px 0",
-                  "xs": "0 0 10px 0"
-                },
-                "global_padding": {
-                  "md": "   ",
-                  "sm": "   ",
-                  "xs": "   "
-                },
-                "global_boxshadow": "0 0 0 0 #ffffff",
-                "global_use_animation": 0,
-                "global_animationduration": "300",
-                "global_animationdelay": "0",
-                "global_custom_css": "",
-                "use_global_width": 0,
-                "hidden_md": 0,
-                "hidden_sm": 0,
-                "hidden_xs": 0,
-                "acl": ""
-              }
-            }
-          ]
+            "background_image": "images/Assets/SCOS_DataStory_RectangleStripedSquares_ScreenedWhite.png",
+            "background_repeat": "no-repeat",
+            "background_size": "inherit",
+            "background_position": "100% 100%",
+            "instFormId": 1509400848921,
+            "class": " padding-top-15"
         },
-        {
-          "id": 1536613202012,
-          "class_name": "col-md-9",
-          "visibility": true,
-          "settings": {
-            "default": {
-              "background_type": "none",
-              "background_gradient": {
-                "color": "#00c6fb",
-                "color2": "#005bea",
-                "deg": "45",
-                "type": "linear"
-              },
-              "background_image": "",
-              "background_repeat": "no-repeat",
-              "background_size": "cover",
-              "background_attachment": "scroll",
-              "background_position": "0 0",
-              "items_align_center": 0,
-              "use_border": 0,
-              "border_width": "",
-              "border_radius": 0,
-              "boxshadow": "0 0 0 0 #fff",
-              "sm_col": "",
-              "xs_col": "",
-              "hidden_xs": "",
-              "hidden_sm": "",
-              "hidden_md": "",
-              "animationduration": "300",
-              "animationdelay": "0"
-            },
-            "items_align_center": 0,
-            "padding": {
-              "md": "   ",
-              "sm": "   ",
-              "xs": "   "
-            },
-            "margin": {
-              "md": "   ",
-              "sm": "   ",
-              "xs": "   "
-            },
-            "use_border": 0,
-            "class": "jupyter-separator"
-          },
-          "addons": [
+        "layout": "3,9",
+        "columns": [
             {
-              "id": 1513234335692,
-              "name": "text_block",
-              "visibility": true,
-              "settings": {
-                "admin_label": "About Copy",
-                "title": "",
-                "heading_selector": "h3",
-                "title_fontsize": "",
-                "title_lineheight": "",
-                "title_letterspace": "0",
-                "text": "<h4><strong>JUPYTERHUB</strong></h4>\n<p>We leverage JupyterHub to create single-user instances of Jupyter Notebooks. We believe people of all technical skill levels should have access to the data needed to change their world. To help users easily accomplish this, we create and manage each users Jupyter Notebook server. We're actively working to create a user friendly experience for people from all backgrounds.</p>\n<p>&nbsp;</p>\n<h4><strong>SUPPORTED LANGUAGES<br /></strong></h4>\n<p>We are currently only supporting Python3, but we're planning to expand our offering to several popular languages within the data science community.</p>\n<p>&nbsp;</p>\n<h4><strong>WHAT'S UNDER THE HOOD</strong></h4>\n<p>When creating a notebook, the Jupyter kernel uses the Python3 environment on the notebook server. The server comes with the SciPy package, which includes a great deal of packages that support working with big data. If you would like to learn about the Python packages included n SciPY, the documentation can be found&nbsp;<a href=\"https://www.scipy.org/\" target=\"_blank\" rel=\"noopener\">here</a>.&nbsp;</p>\n<p>We also include the Leaflet package so our users can create beautiful visualizations using the operating systems geolocation data.</p>\n<h5><em>EXTERNAL PACKAGES</em></h5>\n<p>Jupyter Notebooks support the ability to install external Python libraries using pip and conda. More information about installing external python packages can be found <a href=\"https://www.scipy.org/install.html\" target=\"_blank\" rel=\"noopener\">here</a>.</p>",
-                "alignment": "",
-                "text_fontsize": "",
-                "text_lineheight": "",
-                "dropcap": 0,
-                "class": "",
-                "global_use_background": 0,
-                "global_user_border": 0,
-                "global_margin": {
-                  "md": "   ",
-                  "sm": "   ",
-                  "xs": "   "
+                "id": 1509400848922,
+                "class_name": "col-md-3",
+                "visibility": true,
+                "settings": {
+                    "default": {
+                        "background_image": "",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "background_attachment": "scroll",
+                        "background_position": "0 0",
+                        "items_align_center": 0,
+                        "boxshadow": "0 0 0 0 #fff",
+                        "sm_col": "",
+                        "xs_col": "",
+                        "hidden_xs": "",
+                        "hidden_sm": "",
+                        "hidden_md": "",
+                        "animationduration": "300",
+                        "animationdelay": "0"
+                    },
+                    "items_align_center": 0,
+                    "padding": {
+                        "md": "25px 20px 50px 20px",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "hidden_xs": 0,
+                    "hidden_sm": 0,
+                    "hidden_md": 0,
+                    "background": "#ffffff",
+                    "margin": {
+                        "md": "   ",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "use_border": 0
                 },
-                "global_padding": {
-                  "md": "15px 45px 32px 45px",
-                  "sm": "0px 25px 32px 25px",
-                  "xs": "0px 25px 32px 25px"
+                "addons": [
+                    {
+                        "id": 1536613202021,
+                        "name": "image",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "",
+                            "title": "",
+                            "heading_selector": "h3",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "title_position": "top",
+                            "image": "images/jupyterhub/jupyter-long.png",
+                            "border_radius": 0,
+                            "alt_text": "Image",
+                            "position": "sppb-text-center",
+                            "open_lightbox": 0,
+                            "overlay_color": "rgba(119, 219, 31, .5)",
+                            "link": "",
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 30px 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": "",
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": ""
+                        }
+                    },
+                    {
+                        "id": 1536613202024,
+                        "name": "text_block",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "JupyterText",
+                            "title": "",
+                            "heading_selector": "h3",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "text": "<p>Jupyter is an open-source analytics notebook for data scientist for anlyzing and visualizing data. To learn more about Jupyter’s capabilities, view documents, and get support visit their website.</p>",
+                            "alignment": "",
+                            "text_fontsize": "",
+                            "text_lineheight": "",
+                            "dropcap": 0,
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 15px 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": ""
+                        }
+                    },
+                    {
+                        "id": 1536613202027,
+                        "name": "button",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "LearnMoreAboutJupyter",
+                            "text": "Learn More About Jupyter",
+                            "alignment": "sppb-text-center",
+                            "letterspace": "0",
+                            "type": "custom",
+                            "appearance": "",
+                            "fontsize": {
+                                "md": 16
+                            },
+                            "button_status": "hover",
+                            "background_color": "#000000",
+                            "background_gradient": {
+                                "color": "#B4EC51",
+                                "color2": "#429321",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "color": "#FFFFFF",
+                            "background_color_hover": "#00aeef",
+                            "background_gradient_hover": {
+                                "color": "#429321",
+                                "color2": "#B4EC51",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "color_hover": "#FFFFFF",
+                            "button_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "icon_position": "left",
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 30px 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": "",
+                            "url": "https://jupyter.org",
+                            "target": "_blank",
+                            "shape": "square",
+                            "block": "sppb-btn-block",
+                            "global_boder_style": "solid"
+                        }
+                    },
+                    {
+                        "id": 1536668461952,
+                        "name": "text_block",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "JupyterSeparator",
+                            "title": "",
+                            "heading_selector": "h3",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "text": "",
+                            "alignment": "",
+                            "text_fontsize": "",
+                            "text_lineheight": "",
+                            "dropcap": 0,
+                            "class": "jupyter-separator",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 30px 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": ".jupyter-separator {\n  border-top: 1px solid;\n}",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": ""
+                        }
+                    },
+                    {
+                        "id": 1536772345112,
+                        "name": "heading",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "JupyterBetaWaitlist",
+                            "title": "The BETA Waitlist Is Now Open",
+                            "heading_selector": "h4",
+                            "use_link": 0,
+                            "title_link": "",
+                            "link_new_tab": "",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "title_text_transform": "none",
+                            "title_margin": {
+                                "md": "0px 0px 0px 0px",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "title_padding": {
+                                "md": "0px 0px 0px 0px",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "title_icon_position": "before",
+                            "alignment": "sppb-text-left",
+                            "title_text_shadow": "",
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 15px 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": "",
+                            "title_font_style": {
+                                "uppercase": false,
+                                "weight": 800
+                            }
+                        }
+                    },
+                    {
+                        "id": 1536772345104,
+                        "name": "text_block",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "JupyterText",
+                            "title": "",
+                            "heading_selector": "h3",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "text": "<p>Our current version of Jupyter is in limited Beta release. If you’re interested in using Jupyter on the operating system waitlist your name for a Beta account.</p>",
+                            "alignment": "",
+                            "text_fontsize": "",
+                            "text_lineheight": "",
+                            "dropcap": 0,
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 15px 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": ""
+                        }
+                    },
+                    {
+                        "id": 1536772345109,
+                        "name": "button",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "WaitlistYourName",
+                            "text": "Waitlist Your Name",
+                            "alignment": "sppb-text-center",
+                            "letterspace": "0",
+                            "type": "custom",
+                            "appearance": "",
+                            "fontsize": {
+                                "md": 16
+                            },
+                            "button_status": "hover",
+                            "background_color": "#000000",
+                            "background_gradient": {
+                                "color": "#B4EC51",
+                                "color2": "#429321",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "color": "#FFFFFF",
+                            "background_color_hover": "#00aeef",
+                            "background_gradient_hover": {
+                                "color": "#429321",
+                                "color2": "#B4EC51",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "color_hover": "#FFFFFF",
+                            "button_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "icon_position": "left",
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 30px 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": "",
+                            "url": "/analytics/jupyter-beta-waitlist",
+                            "target": "",
+                            "shape": "square",
+                            "block": "sppb-btn-block",
+                            "global_boder_style": "solid"
+                        }
+                    },
+                    {
+                        "id": 1536613202032,
+                        "name": "text_block",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "AlreadyHaveAccount",
+                            "title": "",
+                            "heading_selector": "h3",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "text": "<strong>Already have an account?</strong>\n<br />\n<a href=\"http://jupyter.smartcolumbusos.com\" target=\"_blank\" rel=\"noopener\">Sign In →</a>",
+                            "alignment": "",
+                            "text_fontsize": "",
+                            "text_lineheight": "",
+                            "dropcap": 0,
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 0 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": 0,
+                            "hidden_md": 0,
+                            "hidden_sm": 0,
+                            "hidden_xs": 0,
+                            "acl": ""
+                        }
+                    }
+                ]
+            },
+            {
+                "id": 1536613202012,
+                "class_name": "col-md-9",
+                "visibility": true,
+                "settings": {
+                    "default": {
+                        "background_type": "none",
+                        "background_gradient": {
+                            "color": "#00c6fb",
+                            "color2": "#005bea",
+                            "deg": "45",
+                            "type": "linear"
+                        },
+                        "background_image": "",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "background_attachment": "scroll",
+                        "background_position": "0 0",
+                        "items_align_center": 0,
+                        "use_border": 0,
+                        "border_width": "",
+                        "border_radius": 0,
+                        "boxshadow": "0 0 0 0 #fff",
+                        "sm_col": "",
+                        "xs_col": "",
+                        "hidden_xs": "",
+                        "hidden_sm": "",
+                        "hidden_md": "",
+                        "animationduration": "300",
+                        "animationdelay": "0"
+                    },
+                    "items_align_center": 0,
+                    "padding": {
+                        "md": "   ",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "margin": {
+                        "md": "   ",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "use_border": 0,
+                    "class": "jupyter-separator vertically-filled-column"
                 },
-                "global_use_animation": 0,
-                "use_global_width": 0,
-                "hidden_md": 0,
-                "hidden_sm": 0,
-                "hidden_xs": 0,
-                "instFormId": 1513234335692,
-                "global_background_type": "color",
-                "global_background_color": "#FFFFFF"
-              }
+                "addons": [
+                    {
+                        "id": 1513234335692,
+                        "name": "text_block",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "About Copy",
+                            "title": "",
+                            "heading_selector": "h3",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "text": "<h4><strong>JUPYTERHUB</strong></h4>\n<p>We leverage JupyterHub to create single-user instances of Jupyter Notebooks. We believe people of all technical skill levels should have access to the data needed to change their world. To help users easily accomplish this, we create and manage each users Jupyter Notebook server. We're actively working to create a user friendly experience for people from all backgrounds.We leverage JupyterHub to create single-user instances of Jupyter Notebooks.</p>\n<p>&nbsp;</p>\n<h4><strong>SUPPORTED LANGUAGES</strong></h4>\n<p>We are currently only supporting Python3, but we're planning to expand our offering to several popular languages within the data science community.</p>\n<p>&nbsp;</p>\n<h4><strong>WHAT'S UNDER THE HOOD</strong></h4>\n<p>When creating a notebook, the Jupyter kernel uses the Python3 environment on the notebook server. The server comes with the SciPy package, which includes a great deal of packages that support working with big data. If you would like to learn about the Python packages included in SciPY, the documentation can be found <a href=\"https://www.scipy.org/\" target=\"_blank\" rel=\"noopener\">here</a>.&nbsp;</p>\n<p>We also include the Leaflet package so our users can create beautiful visualizations using the operating systems geolocation data.</p>\n<h5><em>EXTERNAL PACKAGES</em></h5>\n<p>Jupyter Notebooks support the ability to install external Python libraries using pip and conda. More information about installing external python packages can be found <a href=\"https://www.scipy.org/install.html\" target=\"_blank\" rel=\"noopener\">here</a>.</p>",
+                            "alignment": "",
+                            "text_fontsize": "",
+                            "text_lineheight": "",
+                            "dropcap": 0,
+                            "class": "wtf-is-this",
+                            "global_use_background": 0,
+                            "global_user_border": 0,
+                            "global_margin": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_padding": {
+                                "md": "15px 45px 0px 45px",
+                                "sm": "0px 25px 0px 25px",
+                                "xs": "0px 25px 0px 25px"
+                            },
+                            "global_use_animation": 0,
+                            "use_global_width": 0,
+                            "hidden_md": 0,
+                            "hidden_sm": 0,
+                            "hidden_xs": 0,
+                            "instFormId": 1513234335692,
+                            "global_background_type": "color",
+                            "global_background_color": "#FFFFFF",
+                            "global_custom_css": ""
+                        }
+                    }
+                ]
             }
-          ]
-        }
-      ]
+        ]
     }
-  ]
+]

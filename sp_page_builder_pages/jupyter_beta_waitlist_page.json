@@ -1,0 +1,360 @@
+[
+    {
+        "id": 1513221265950,
+        "visibility": true,
+        "collapse": false,
+        "settings": {
+            "admin_label": "",
+            "title": "",
+            "heading_selector": "h3",
+            "title_fontsize": "",
+            "title_fontweight": "",
+            "title_position": "sppb-text-center",
+            "columns_align_center": 0,
+            "fullscreen": 0,
+            "no_gutter": 0,
+            "padding": {
+                "md": "10px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+            },
+            "margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+            },
+            "background_image": "",
+            "background_parallax": 0,
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "fixed",
+            "background_position": "0 0",
+            "background_video": 0,
+            "external_background_video": "0",
+            "show_top_shape": 0,
+            "shape_name": "clouds-flat",
+            "shape_color": "#e5e5e5",
+            "shape_width": {
+                "md": 100,
+                "sm": 100,
+                "xs": 100
+            },
+            "shape_height": "",
+            "shape_flip": false,
+            "shape_invert": false,
+            "shape_to_front": false,
+            "show_bottom_shape": 0,
+            "bottom_shape_name": "clouds-opacity",
+            "bottom_shape_color": "#e5e5e5",
+            "bottom_shape_width": {
+                "md": 100,
+                "sm": 100,
+                "xs": 100
+            },
+            "bottom_shape_height": "",
+            "bottom_shape_flip": false,
+            "bottom_shape_invert": false,
+            "bottom_shape_to_front": false,
+            "hidden_xs": 0,
+            "hidden_sm": 0,
+            "hidden_md": 0,
+            "animationduration": "300",
+            "animationdelay": "0",
+            "background_color": "#fda128"
+        },
+        "layout": "12",
+        "columns": [
+            {
+                "id": 1513221265949,
+                "class_name": "col-md-12",
+                "visibility": true,
+                "settings": {
+                    "background_image": "",
+                    "background_repeat": "no-repeat",
+                    "background_size": "cover",
+                    "background_attachment": "scroll",
+                    "background_position": "0 0",
+                    "items_align_center": 0,
+                    "boxshadow": "0 0 0 0 #fff",
+                    "sm_col": "",
+                    "xs_col": "",
+                    "hidden_xs": 0,
+                    "hidden_sm": 0,
+                    "hidden_md": 0,
+                    "animationduration": "300",
+                    "animationdelay": "0",
+                    "padding": {
+                        "md": "15px 0px 15px 0px",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "background": "#000000",
+                    "margin": {
+                        "md": "   ",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "use_border": 0
+                },
+                "addons": [
+                    {
+                        "id": 1513221265957,
+                        "name": "heading",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "Jupyter Waitlist Beta Heading",
+                            "title": "JUPYTER BETA WAITLIST",
+                            "heading_selector": "h2",
+                            "use_link": 0,
+                            "title_link": "",
+                            "link_new_tab": "",
+                            "title_fontsize": {
+                                "md": "36",
+                                "sm": "",
+                                "xs": ""
+                            },
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "title_margin": {
+                                "md": "0px 0px 0px 0px",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "title_padding": {
+                                "md": "0px 0px 0px 0px",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "title_icon_position": "before",
+                            "alignment": "sppb-text-center",
+                            "class": "",
+                            "global_use_background": 0,
+                            "global_user_border": 0,
+                            "global_margin": {
+                                "md": "10px 0px 15px 0px",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_use_animation": 0,
+                            "use_global_width": 0,
+                            "hidden_md": 0,
+                            "hidden_sm": 0,
+                            "hidden_xs": 0,
+                            "global_text_color": "#ffffff",
+                            "title_font_style": {
+                                "weight": 900,
+                                "uppercase": true
+                            },
+                            "instFormId": 1513221265957
+                        }
+                    },
+                    {
+                        "id": 1536779039978,
+                        "name": "text_block",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "Jupyter Waitlist Heading Content",
+                            "title": "",
+                            "heading_selector": "h3",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "text": "<p><span style=\"font-size: 14pt;\">Add your name to the waitlist to be one of our first Beta users. A GitHub account is <strong>required</strong> to access the private Beta. Your sign up does not guarantee access to the Beta program. Keep an eye on your inbox for updates.</span></p>",
+                            "alignment": "sppb-text-center",
+                            "text_fontsize": {
+                                "md": "",
+                                "sm": "",
+                                "xs": ""
+                            },
+                            "text_lineheight": "",
+                            "dropcap": 0,
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 15px 0 15px",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": "",
+                            "global_text_color": "#ffffff"
+                        }
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": 1509400848921,
+        "visibility": true,
+        "collapse": false,
+        "settings": {
+            "padding": {
+                "md": "0 0px 50px 0px",
+                "sm": "   ",
+                "xs": "   "
+            },
+            "margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+            },
+            "columns_align_center": 0,
+            "fullscreen": 0,
+            "no_gutter": 0,
+            "background_parallax": 0,
+            "background_video": 0,
+            "show_top_shape": 0,
+            "show_bottom_shape": 0,
+            "background_color": "#fda128",
+            "hidden_xs": 0,
+            "hidden_sm": 0,
+            "hidden_md": 0,
+            "background_image": "images/Assets/SCOS_DataStory_RectangleStripedSquares_ScreenedWhite.png",
+            "background_repeat": "no-repeat",
+            "background_size": "inherit",
+            "background_position": "100% 0",
+            "instFormId": 1509400848921,
+            "class": " padding-top-15",
+            "background_type": "image"
+        },
+        "layout": "12",
+        "columns": [
+            {
+                "id": 1536613202012,
+                "class_name": "col-md-12",
+                "visibility": true,
+                "settings": {
+                    "default": {
+                        "background_type": "none",
+                        "background_gradient": {
+                            "color": "#00c6fb",
+                            "color2": "#005bea",
+                            "deg": "45",
+                            "type": "linear"
+                        },
+                        "background_image": "",
+                        "background_repeat": "no-repeat",
+                        "background_size": "cover",
+                        "background_attachment": "scroll",
+                        "background_position": "0 0",
+                        "items_align_center": 0,
+                        "use_border": 0,
+                        "border_width": "",
+                        "border_radius": 0,
+                        "boxshadow": "0 0 0 0 #fff",
+                        "sm_col": "",
+                        "xs_col": "",
+                        "hidden_xs": "",
+                        "hidden_sm": "",
+                        "hidden_md": "",
+                        "animationduration": "300",
+                        "animationdelay": "0"
+                    },
+                    "items_align_center": 0,
+                    "padding": {
+                        "md": "20px 20px 20px 20px",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "margin": {
+                        "md": "   ",
+                        "sm": "   ",
+                        "xs": "   "
+                    },
+                    "use_border": 0,
+                    "class": "",
+                    "background_type": "color",
+                    "background": "#ffffff",
+                    "hidden_xs": 0,
+                    "hidden_sm": 0,
+                    "hidden_md": 0
+                },
+                "addons": [
+                    {
+                        "id": 1536780426972,
+                        "name": "module",
+                        "visibility": true,
+                        "settings": {
+                            "admin_label": "",
+                            "title": "",
+                            "heading_selector": "h3",
+                            "title_fontsize": "",
+                            "title_lineheight": "",
+                            "title_letterspace": "0",
+                            "module_type": "module",
+                            "class": "",
+                            "global_background_type": "none",
+                            "global_background_gradient": {
+                                "color": "#00c6fb",
+                                "color2": "#005bea",
+                                "deg": "45",
+                                "type": "linear"
+                            },
+                            "global_use_overlay": 0,
+                            "global_background_repeat": "no-repeat",
+                            "global_background_size": "cover",
+                            "global_background_attachment": "inherit",
+                            "global_user_border": 0,
+                            "global_border_width": "",
+                            "global_border_radius": 0,
+                            "global_margin": {
+                                "md": "0 0 0 0",
+                                "sm": "0 0 20px 0",
+                                "xs": "0 0 10px 0"
+                            },
+                            "global_padding": {
+                                "md": "   ",
+                                "sm": "   ",
+                                "xs": "   "
+                            },
+                            "global_boxshadow": "0 0 0 0 #ffffff",
+                            "global_use_animation": 0,
+                            "global_animationduration": "300",
+                            "global_animationdelay": "0",
+                            "global_custom_css": "",
+                            "use_global_width": "0",
+                            "hidden_md": "0",
+                            "hidden_sm": "0",
+                            "hidden_xs": "0",
+                            "acl": "",
+                            "id": "122",
+                            "global_background_color": "#ffffff"
+                        }
+                    }
+                ]
+            }
+        ]
+    }
+]
