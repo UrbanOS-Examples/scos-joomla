@@ -2,7 +2,7 @@
 2. Import Jupyter Beta Waitlist Form
     1. tar.gz the contents of `forms/jupyter-beta-waitlist-form` so that files are at its root
     2. In `Components` > `RSForm! Pro` > `Backup/Restore` go to the restore tab
-    3. Choose the zip file and select `No` for `Overwrite existing forms?` and `Keep form IDs from backup` and click restore
+    3. Choose the zip file and select `No` for `Overwrite existing forms?` and `Yes` for `Keep form IDs from backup` and click restore
 
 3. Create Jupyter Beta Waitlist Form Module
     1. In `Extensions` > `Modules`
