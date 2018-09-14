@@ -23,7 +23,7 @@
     4. Select "Jupyter Beta Waitlist" in the `Select Page` area
     5. Select `Main Menu` in the `Menu` dropdown, and select `Analytics` for the `Parent Item` on the `Details` tab
     6. Hide it from the top horizontal menu by turning off `Display in menu` from the `Link Type` tab
-    7. SEO Title for Jupyter Beta Waitlist Page: "Apply for Jupyter waitlist to use Jupyter Hub to analyze Smart Columbus data"
+    7. SEO Title for Jupyter Beta Waitlist Page: "Apply for Jupyter waitlist to use JupyterHub to analyze Smart Columbus data"
     8. SEO Meta Tags: Jupyter, Data Science, Python, JupyterHub, JupyterLab, SciPy, Analytics
 
 6. Import an update to the Analytics Page
