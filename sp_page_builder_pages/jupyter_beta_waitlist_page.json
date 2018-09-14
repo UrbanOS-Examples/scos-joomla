@@ -164,7 +164,7 @@
                             "title_fontsize": "",
                             "title_lineheight": "",
                             "title_letterspace": "0",
-                            "text": "<p><span style=\"font-size: 14pt;\">Add your name to the waitlist to be one of our first Beta users. A GitHub account is <strong>required</strong> to access the private Beta. Your sign up does not guarantee access to the Beta program. Keep an eye on your inbox for updates.</span></p>",
+                            "text": "<p><span style=\"font-size: 14pt;\">Add your name to the waitlist to be one of our first Beta users. A free GitHub account is <strong>required</strong> to access the private Beta. Your sign up does not guarantee access to the Beta program. Keep an eye on your inbox for updates.</span></p>",
                             "alignment": "sppb-text-center",
                             "text_fontsize": {
                                 "md": "",

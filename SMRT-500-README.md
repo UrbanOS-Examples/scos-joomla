@@ -2,7 +2,7 @@
 2. Import Jupyter Beta Waitlist Form
     1. tar.gz the contents of `forms/jupyter-beta-waitlist-form` so that files are at its root
     2. In `Components` > `RSForm! Pro` > `Backup/Restore` go to the restore tab
-    3. Choose the zip file and select `No` for `Overwrite existing forms?` and `Keep form IDs from backup` and click restore
+    3. Choose the zip file and select `No` for `Overwrite existing forms?` and `Yes` for `Keep form IDs from backup` and click restore
 
 3. Create Jupyter Beta Waitlist Form Module
     1. In `Extensions` > `Modules`
@@ -13,17 +13,18 @@
 4. Import Jupyter Beta Waitlist Page
     1. In `SP Page Builder` > `Pages`
     2. Click new and then import the `sp_page_builder_pages/jupyter_beta_waitlist_page.json` file
-    3. Set the `Title` of the new Page to "Jupyter Beta
-    4. You "may" need to update the module ID for the form module embedded in the page to point to the Jupyter Beta Waitlist Form Module
+    3. Set the `Title` of the new Page to "Jupyter Beta Waitlist"
+    4. Click on the edit (pencil) icon for the `Joomla Module` at the bottom of the page, and verify that "Jupyter Beta Waitlist Form Module" is in the `Module` dropdown.
 
 5. Create new Menu Item for the Jupyter Beta Waitlist Page
     1. In `Menus` > `All Menus`
-    2. Open `Menu Type` and select `SP Page Builder` > `Page`
-    3. Add new Menu Item called "Jupyter Beta Waitlist" (alias of jupyter-beta-waitlist) to point to new Jupyter Beta Waitlist Page
-    4. Select `Main Menu` in the `Menu` dropdown, and select `Analytics` for the `Parent Item` on the `Details` tab
-    5. Hide it from the top horizontal menu by turning off `Display in menu` from the `Link Type` tab
-    6. SEO Title for Jupyter Beta Waitlist Page: "Apply for Jupyter waitlist to use Jupyter Hub to analyze Smart Columbus data"
-    7. SEO Meta Tags: Jupyter, Data Science, Python, JupyterHub, JupyterLab, SciPy, Analytics
+    2. Add new Menu Item called "Jupyter Beta Waitlist" (alias of jupyter-beta-waitlist) to point to new Jupyter Beta Waitlist Page
+    3. Open `Menu Item Type` and select `SP Page Builder` > `Page`
+    4. Select "Jupyter Beta Waitlist" in the `Select Page` area
+    5. Select `Main Menu` in the `Menu` dropdown, and select `Analytics` for the `Parent Item` on the `Details` tab
+    6. Hide it from the top horizontal menu by turning off `Display in menu` from the `Link Type` tab
+    7. SEO Title for Jupyter Beta Waitlist Page: "Apply for Jupyter waitlist to use JupyterHub to analyze Smart Columbus data"
+    8. SEO Meta Tags: Jupyter, Data Science, Python, JupyterHub, JupyterLab, SciPy, Analytics
 
 6. Import an update to the Analytics Page
     1. In `SP Page Builder` > `Pages`

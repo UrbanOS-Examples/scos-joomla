@@ -216,8 +216,8 @@
           "items_align_center": 0,
           "padding": {
             "md": "25px 20px 50px 20px",
-            "sm": "   ",
-            "xs": "   "
+            "sm": "25px 20px 0px 20px",
+            "xs": "25px 20px 0px 20px"
           },
           "hidden_xs": 0,
           "hidden_sm": 0,
@@ -294,7 +294,7 @@
               "title_fontsize": "",
               "title_lineheight": "",
               "title_letterspace": "0",
-              "text": "<p>Jupyter is an open-source analytics notebook for data scientist for anlyzing and visualizing data. To learn more about Jupyter’s capabilities, view documents, and get support visit their website.</p>",
+              "text": "<p>Jupyter is an open-source analytics notebook for data scientist for analyzing and visualizing data. To learn more about Jupyter’s capabilities, view documents, and get support visit their website.</p>",
               "alignment": "",
               "text_fontsize": "",
               "text_lineheight": "",
@@ -548,7 +548,7 @@
               "title_fontsize": "",
               "title_lineheight": "",
               "title_letterspace": "0",
-              "text": "<p>Our current version of Jupyter is in limited Beta release. If you’re interested in using Jupyter on the operating system waitlist your name for a Beta account.</p>",
+              "text": "<p>Our current version of Jupyter is in limited Beta release. If you’re interested in using Jupyter on the operating system, waitlist your name for a Beta account.</p>",
               "alignment": "",
               "text_fontsize": "",
               "text_lineheight": "",
@@ -570,8 +570,8 @@
               "global_border_radius": 0,
               "global_margin": {
                 "md": "0 0 15px 0",
-                "sm": "0 0 20px 0",
-                "xs": "0 0 10px 0"
+                "sm": "0 0 5px 0",
+                "xs": "0 0 5px 0"
               },
               "global_padding": {
                 "md": "   ",
@@ -596,7 +596,7 @@
             "visibility": true,
             "settings": {
               "admin_label": "WaitlistYourName",
-              "text": "Waitlist Your Name",
+              "text": "Sign Me Up",
               "alignment": "sppb-text-center",
               "letterspace": "0",
               "type": "custom",
@@ -717,6 +717,59 @@
               "global_custom_css": "",
               "use_global_width": 0,
               "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": ""
+            }
+          },
+          {
+            "id": 1536935758797,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "JupyterSeparator",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "jupyter-separator",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 30px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": ".jupyter-separator {\n  border-top: 1px solid;\n}",
+              "use_global_width": 0,
+              "hidden_md": 1,
               "hidden_sm": 0,
               "hidden_xs": 0,
               "acl": ""
