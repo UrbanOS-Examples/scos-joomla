@@ -110,7 +110,7 @@
 <ScrollToThankYou>1</ScrollToThankYou>
 <ThankYouMessagePopUp>0</ThankYouMessagePopUp>
 <Thankyou><![CDATA[<h4><strong>We’re working on your request</strong></h4>
-<p><span style="color: #000000; font-size: 14px;">Thanks for your interest. We’ll send you updates on our Beta program as we’re add the capacity to support our Beta users. If you have questions or feedback, use our <a href="/contact-us">Contact Us</a>&nbsp;page to reach out.</span></p>
+<p><span style="color: #000000; font-size: 14px;">Thanks for your interest. We’ll send you updates on our Beta program as we add the capacity to support our Beta users. If you have questions or feedback, use our <a href="/contact-us">Contact Us</a>&nbsp;page to reach out.</span></p>
 <p><span style="color: #000000; font-size: 14px;">In the meantime, check out our current datasets.</span></p>
 <p><a class="sppb-btn sppb-btn-custom sppb-btn-square sppb-btn-black" href="/data">Browse Datasets</a></p>]]></Thankyou>
 <ShowContinue>0</ShowContinue>
