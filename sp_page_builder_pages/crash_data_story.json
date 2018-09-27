@@ -1,0 +1,916 @@
+[
+  {
+    "id": 1512078181064,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "Hero Section 02",
+      "separator1": "",
+      "title": "",
+      "heading_selector": "h2",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_text_color": "#000000",
+      "title_margin_top": "",
+      "title_margin_bottom": "",
+      "separator2": "",
+      "subtitle": "",
+      "subtitle_fontsize": "",
+      "title_position": "sppb-text-left",
+      "columns_equal_height": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "id": "",
+      "class": "",
+      "padding": {
+        "md": "50px 0px 65px 0px",
+        "sm": "100px 0px 50px 0px",
+        "xs": "60px 0px 10px 0px"
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "color": "rgba(255, 255, 255, 1)",
+      "background_color": "",
+      "background_image": "images/MaastoStory/scos_datastory_traffic_greenbackground_72ppi.png",
+      "background_parallax": 0,
+      "overlay": "",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_attachment": "inherit",
+      "background_position": "50% 50%",
+      "background_video": 0,
+      "external_background_video": "0",
+      "background_video_mp4": "",
+      "background_video_ogv": "",
+      "background_external_video": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animation": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "columns_align_center": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "background_type": "image"
+    },
+    "layout": "6,6",
+    "columns": [
+      {
+        "id": 1512078181099,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "15px   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512078181100,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "CRASH DATA PUTS CITY IN THE KNOW FOR IMPROVED TRAFFIC SAFETY",
+              "title": "CRASH DATA PUTS CITY IN THE KNOW FOR IMPROVED TRAFFIC SAFETY",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "32",
+                "sm": "50",
+                "xs": "24"
+              },
+              "title_fontstyle": [
+                "bold"
+              ],
+              "title_fontweight": "",
+              "title_lineheight": {
+                "md": "49",
+                "sm": "70",
+                "xs": "36"
+              },
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 2px 0px",
+                "sm": "0px 0px 10px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "0px 0px 0px 0px",
+                "xs": "0px 0px 0px 0px"
+              },
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_width": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_font_style": {
+                "weight": 900,
+                "uppercase": true
+              },
+              "global_text_color": "#000000"
+            }
+          },
+          {
+            "id": 1512078181101,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_fontstyle": "",
+              "title_letterspace": "0",
+              "title_fontweight": "",
+              "text": "<p><strong>In 2017, there were 1,094 fatal traffic crashes resulting in 1,179 traffic fatalities on Ohio roadways.</strong></p>\n<p>We believe that data and technology can help reduce this number in the future.</p>\n<p>Today, professionals responsible for managing and improving the safety of our transportation system must often rely on dispersed and sometimes outdated or incomplete traffic information. Data on speed limits, intersection controls, guardrails and more is maintained by numerous agencies. Crash records may not be available for at least a week or more. Still other data, such as data from on-board units that log vehicle speeds, location, time, acceleration, deceleration, traction control or road impact events, is not available to transportation planners and engineers.</p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": {
+                "md": "14",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": {
+                "md": "21",
+                "sm": "",
+                "xs": ""
+              },
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "  0px ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "global_animationdelay": "100",
+              "global_text_color": "#000000",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": 1512078181103,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {},
+        "addons": [
+          {
+            "id": 1512078181104,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h5",
+              "title_fontsize": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_lineheight": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_letterspace": "0",
+              "image": "images/crash_data_story/crash_story.png",
+              "alt_text": "SCOS_DataStory01_TruckPhoto",
+              "position": "sppb-text-right",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_margin": {
+                "md": "20px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "italic": true
+              },
+              "title_position": "bottom",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_use_animation": 0,
+              "title_text_color": "#000000",
+              "global_custom_css": ".sppb-img-responsive {\n    height: 340px;\n}\n"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512081174325,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "30px  30px ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "60px 0px 0px 0px",
+        "xs": "60px 0px 0px 0px"
+      },
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "background_color": "",
+      "class": " padding-top-0"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1512081174326,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          }
+        },
+        "addons": [
+          {
+            "id": 1512081837866,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Description",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>Smart Columbus is committed to improving the range and timeliness of data available about the transportation system to increase safety on our roadways. Developing a resource for gathering, storing, analyzing and visualizing real-time and historical data about the transportation network will provide a more complete picture of travel conditions and allow for more proactive identification and resolution of safety issues. More accessible data could also help the network operate more efficiently by allowing traffic engineers to respond and adapt to real-time conditions.</p>\n<p>Outside of historical data, the compilation of weather conditions, time of day, traffic volumes and other data could allow for predictive modeling of high-risk conditions and then alert the traffic management center and emergency services to the presence of those conditions in real-time to help mitigate future risks. Near-miss information can increase the number of data points available to help planners and engineers proactively implement safety improvements. Data on irregular traffic patterns, such as four-way stop behavior at a signalized intersection, could alert the traffic management center to system malfunctions and dispatch police to maintain traffic before a collision occurs.</p>\n<p>We’re publishing available traffic safety data and also calling on traffic data owners to <a href=\"share-your-data\">share their data</a> to help make our streets safer.</p>\n<p>Users of the data will include transportation engineers and planners working for local, county, regional and state government agencies. Public safety personnel may also be key users if their ability to respond to unsafe roadway conditions is enhanced. Researchers represent another potential user of the data, as more robust information may provide new insights into factors that contribute to unsafe conditions. A variety of private-sector users, such as transportation network companies, automakers and traffic control manufacturers would also be likely users of solutions developed through this use case.</p>\n<p>We invite you to review the data available today to help us discover the traffic safety solutions of the future. Please continue checking back as this data becomes even more robust throughout the course of the Smart Columbus project initiatives.</p>\n<p><a href=\"/data\" class=\"custom-button\" style=\"background: #00aeef; color: #fff; padding: 5px 10px; display: inline-block; font-weight: bold; margin-top: 20px;\">Explore the Data</a></p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_margin": {
+                "md": "20px 0px 20px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 15px 0px 15px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_custom_css": "a.custom-button:hover, a.custom-button:focus {\n    color: #fff !important;\n    text-decoration: none !important;\n}"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1513891135568,
+    "visibility": false,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_position": "sppb-text-center",
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "0px 0px 50px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_image": "",
+      "background_parallax": 0,
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "background_video": 0,
+      "external_background_video": "0",
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": false,
+      "shape_invert": false,
+      "shape_to_front": false,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "background_color": "#FFA200",
+      "class": " padding-top-0"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1513891135567,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_image": "",
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "items_align_center": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0"
+        },
+        "addons": [
+          {
+            "id": 1513891135571,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "Rest Area parking Availability",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "20px 0px 20px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "title_font_style": {
+                "uppercase": true,
+                "weight": 900
+              },
+              "global_text_color": "#000000",
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1513891135566,
+            "name": "raw_html",
+            "visibility": true,
+            "settings": {
+              "admin_label": "MAASTO Dashboard Tableau",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "html": "<div class='tableauPlaceholder' id='viz1513871510221' style='position: relative'><noscript><a href='#'><img alt='Dashboard 1 ' src='https://public.tableau.com/static/images/MA/MAASTODashboard/Dashboard1/1_rss.png' style='border: none' /></a></noscript><object class='tableauViz' style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='MAASTODashboard/Dashboard1' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https://public.tableau.com/static/images/MA/MAASTODashboard/Dashboard1/1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1513871510221'); var vizElement = divElement.getElementsByTagName('object')[0]; vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px'; var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512081837902,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "Hero Section 02",
+      "separator1": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_text_color": "",
+      "title_margin_top": "",
+      "title_margin_bottom": "",
+      "separator2": "",
+      "subtitle": "",
+      "subtitle_fontsize": "",
+      "title_position": "sppb-text-left",
+      "columns_equal_height": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "id": "",
+      "class": "",
+      "padding": {
+        "md": "   ",
+        "sm": "100px 0px 50px 0px",
+        "xs": "60px 0px 10px 0px"
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "color": "rgba(255, 255, 255, 1)",
+      "background_color": "",
+      "background_image": "",
+      "background_parallax": 0,
+      "overlay": "",
+      "background_repeat": "no-repeat",
+      "background_size": "inherit",
+      "background_attachment": "scroll",
+      "background_position": "100% 100%",
+      "background_video": 0,
+      "external_background_video": "0",
+      "background_video_mp4": "",
+      "background_video_ogv": "",
+      "background_external_video": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animation": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "columns_align_center": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0
+    },
+    "layout": "6,6",
+    "columns": [
+      {
+        "id": 1512081837889,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512081837890,
+            "name": "heading",
+            "visibility": false,
+            "settings": {
+              "admin_label": "FOR THE GREATER GOOD",
+              "title": "FOR THE GREATER GOOD",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "36",
+                "sm": "50",
+                "xs": "24"
+              },
+              "title_fontstyle": [
+                "bold"
+              ],
+              "title_fontweight": "",
+              "title_lineheight": {
+                "md": "49",
+                "sm": "70",
+                "xs": "36"
+              },
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "px 0px 0px 0px",
+                "sm": "0px 0px 10px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "0px 0px 0px 0px",
+                "xs": "0px 0px 0px 0px"
+              },
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_width": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_font_style": {
+                "weight": 800
+              },
+              "global_text_color": "#000000"
+            }
+          },
+          {
+            "id": 1512081837891,
+            "name": "text_block",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_fontstyle": "",
+              "title_letterspace": "0",
+              "title_fontweight": "",
+              "text": "<p class=\"p1\"><span class=\"s1\">Local Franklin County officials, who see the same bridges getting hit over and over, are concerned about the costs in safety, commuter frustration when roads shut down, and in lost time for the 1,799* Columbus-based logistics, delivery and trucking companies.</span></p>\n<p class=\"p1\"><span class=\"s1\"><br />Even truck drivers with an oversize vehicle permit who know precisely what roads to take need this yet-to-be-created app. Because they’re human and have to go off their preset route to get food, find a place to sleep or to use a bathroom. When they do, they end up stuck under a bridge.<br /></span></p>\n<p class=\"p1\"><span class=\"s1\"><br />Smart Columbus is about “using mobility options to improve opportunities for people.” Help us make the ride smoother for everyone.</span></p>\n<p class=\"p1\"><span class=\"s1\"><br />*Source: Columbus Chamber of Commerce</span></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": {
+                "md": "14",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": {
+                "md": "21",
+                "sm": "",
+                "xs": ""
+              },
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "global_animationdelay": "100",
+              "global_text_color": "#000000",
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "use_global_width": 0
+            }
+          },
+          {
+            "id": 1512081837892,
+            "name": "button",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "text": "Get Started",
+              "alignment": "sppb-text-left",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "outline",
+              "background_color": "#fff",
+              "color": "#FFFFFF",
+              "background_color_hover": "#fff",
+              "color_hover": "rgba(0, 0, 0, 0.7)",
+              "button_padding": {
+                "md": "12px 30px 12px 30px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "left",
+              "class": "",
+              "url": "#",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "  30px ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_text_color": "#fff",
+              "font_style": {
+                "weight": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1512081837893,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "50px   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512081837894,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "image": "images/BridgeStoryImages/SCOS_DataStory01_SMRT_Footer.png",
+              "alt_text": "Image",
+              "position": "sppb-text-right",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
