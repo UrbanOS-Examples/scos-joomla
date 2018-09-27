@@ -1,0 +1,2124 @@
+[
+  {
+    "id": 1512362509560,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "padding": {
+        "md": "10px 0px 10px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_color": "",
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1512362509559,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "15px  15px ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000"
+        },
+        "addons": [
+          {
+            "id": 1512425745055,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "DATA STORIES",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "36",
+                "sm": "",
+                "xs": ""
+              },
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "10px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-center",
+              "class": "",
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_font_style": {
+                "weight": 900
+              },
+              "global_text_color": "#ffffff",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1512425745050,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Data Story Landing Intro",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><span style=\"font-size: 14pt;\">Discover ways our city’s mobility data has been analyzed, applied and combined to develop innovative solutions to real-world challenges. Join us. Review our datasets to help us develop the mobility solutions of the future.</span></p>",
+              "alignment": "sppb-text-center",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 15px 0px 15px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_text_color": "#ffffff"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512362509558,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "background_color": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "background_image": "",
+      "background_repeat": "no-repeat",
+      "background_size": "contain",
+      "background_position": "100% 100%",
+      "background_type": "image"
+    },
+    "layout": "4,4,4",
+    "columns": [
+      {
+        "id": 1512362509556,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000"
+        },
+        "addons": [
+          {
+            "id": 1538058567254,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "COTA STREAMING IMAGE",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/streaming_data_story/cota_bus_preview.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1538058567257,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "cota streaming intro",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><img style=\"position: absolute; padding-right: 5px;\" src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>STREAMING DATA FEED SHOWS RIDERS WHERE THEIR BUS IS IN REAL-TIME</strong></span></p>\n<p>The Central Ohio Transit Authority is the region's public transportation leader, with nearly 19 million passenger trips in 2017. For many residents, the COTA bus is their ride to work, to school, to the doctor or to the grocery store. COTA was named Outstanding Public Transportation System among midsize agencies in 2018 by the American Public Transportation Association. Innovation was one of the qualities that earned it this distinction, and technology played no small role.</p>\n<p>&nbsp;</p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "20px 20px 20px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_text_color": "#ffffff"
+            }
+          },
+          {
+            "id": 1538058567260,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 1",
+              "text": "View Story",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "#ffffff",
+              "color": "#000000",
+              "background_color_hover": "#00aeef ",
+              "color_hover": "#000000",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " dataset-button-homepage",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/streaming-data-feed-shows-riders-where-their-bus-is-in-real-time",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "#ffffff",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              },
+              "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
+            }
+          },
+          {
+            "id": 1538058567263,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Link for Full Block",
+              "text": "",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "",
+              "color": "",
+              "background_color_hover": "",
+              "color_hover": "",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " full-block-link",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/streaming-data-feed-shows-riders-where-their-bus-is-in-real-time",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "#ffffff",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1512362509555,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000"
+        },
+        "addons": [
+          {
+            "id": 1512362509568,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "DEVELOPERS NEEDED TO FILL AN “APP GAP”",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/BridgeStoryImages/DataStory01-Filtered.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1512426740155,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 1 intro",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><img src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" style=\"position: absolute;padding-right: 5px;\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>DEVELOPERS NEEDED TO FILL AN \"APP GAP\"</strong></span></p>\n<p>We all praise the GPS apps that help us get around, but there is no current resource that tells drivers if the vehicle they’re operating is too tall for the upcoming bridge. As a truck, bus driver or fleet operator, this is pertinent information that is currently lacking while navigating our streets.<br /><br /></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "20px 20px 20px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_text_color": "#ffffff"
+            }
+          },
+          {
+            "id": 1512426740158,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 1",
+              "text": "View Story",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "#ffffff",
+              "color": "#000000",
+              "background_color_hover": "#00aeef ",
+              "color_hover": "#000000",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " dataset-button-homepage",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/developers-needed-to-fill-an-app-gap",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "#ffffff",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              },
+              "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
+            }
+          },
+          {
+            "id": 1516335689019,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Link for Full Block",
+              "text": "",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "",
+              "color": "",
+              "background_color_hover": "",
+              "color_hover": "",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " full-block-link",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/developers-needed-to-fill-an-app-gap",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "#ffffff",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1512362509557,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000"
+        },
+        "addons": [
+          {
+            "id": 1512426740198,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 2 - truckers",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/MaastoStory/SCOS_DataStory03_TruckParking_Orange_72ppi.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1512426740201,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><img src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" style=\"position: absolute; padding-right: 5px;\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>DATA FEED CAN HELP TRUCKERS FIND SAFE SPOT TO REST</strong></span></p>\n<p>The commercial trucking industry is considered the lifeblood of our economy, moving more than 10.5 billion tons of freight in the U.S. each year. Trucks dominate freight movements because they can reach nearly any destination.<br /><br /></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "20px 20px 20px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_text_color": "#ffffff"
+            }
+          },
+          {
+            "id": 1512426740204,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 3",
+              "text": "View Story",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "#ffffff",
+              "color": "#000000",
+              "background_color_hover": "#00aeef",
+              "color_hover": "#000000",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " dataset-button-homepage",
+              "global_use_background": 1,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/data-feed-can-help-truckers-find-safe-spot-to-rest",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              },
+              "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
+            }
+          },
+          {
+            "id": 1516335689025,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Link for Full Block",
+              "text": "",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "",
+              "color": "",
+              "background_color_hover": "",
+              "color_hover": "",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " full-block-link",
+              "global_use_background": 1,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/data-feed-can-help-truckers-find-safe-spot-to-rest",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1526674945407,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "background_color": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "background_image": "images/Assets/SCOS_DataStory_RectangleStripedSquares_ScreenedBlack.png",
+      "background_repeat": "no-repeat",
+      "background_size": "contain",
+      "background_position": "100% 100%"
+    },
+    "layout": "4,4,4",
+    "columns": [
+      {
+        "id": 1526674945424,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000"
+        },
+        "addons": [
+          {
+            "id": 1526675575377,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 3 - food",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/MaastoStory/scos_datastory_foodaccess_blue_72ppi.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1526675575380,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><img src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" style=\"position: absolute; padding-right: 5px;\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>TRACKING&nbsp;LOCAL FOOD&nbsp;SUPPLIES&nbsp;FOR HUNGRY&nbsp;FAMILIES</strong></span></p>\n<p>Each year, children, seniors and adults in Franklin County go hungry for about 70 million meals.  Neighbors in our community struggle to access healthy food for a number of reasons, including lack of financial means as well as lack of access to transportation that can get them to food that meets their health or cultural needs.<br /><br /></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "20px 20px 20px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_text_color": "#ffffff"
+            }
+          },
+          {
+            "id": 1526675575383,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 3",
+              "text": "View Story",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "#ffffff",
+              "color": "#000000",
+              "background_color_hover": "#00aeef",
+              "color_hover": "#000000",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " dataset-button-homepage",
+              "global_use_background": 1,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/tracking-local-food-supplies-for-hungry-families",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              },
+              "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
+            }
+          },
+          {
+            "id": 1526675575386,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Link for Full Block",
+              "text": "",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "",
+              "color": "",
+              "background_color_hover": "",
+              "color_hover": "",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " full-block-link",
+              "global_use_background": 1,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/tracking-local-food-supplies-for-hungry-families",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              }
+            }
+          },
+          {
+            "id": 1512426740152,
+            "name": "image",
+            "visibility": false,
+            "settings": {
+              "admin_label": "Shared Event Data Aims to Keep Traffic Moving",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/TMCStory/SCOS_DataStory02_TruckParking_Blue_72ppi.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1512362509571,
+            "name": "text_block",
+            "visibility": false,
+            "settings": {
+              "admin_label": "Upcoming stories list",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><img src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" style=\"position: absolute; padding-right: 5px;\" /> <span style=\"font-size: 13pt; display: inline-block; padding-left: 40px; text-transform: uppercase;\"><strong>more data stories coming&nbsp;soon<br /></strong></span></p>\n\n<ul>\n<li>Tracking Local Food Supplies for Hungry Families</li>\n<li>Crash Data Puts City in the Know for Improved Traffic Safety</li>\n<li>Data Paves the Way to Help Older Residents Get Around</li>\n<li>Parking tickets piling up? Use data to determine why.</li>\n<li>Bike, Walk or Drive – Traffic Managers Use Real-Time Data to Keep Us Safe</li>\n</ul>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "20px 20px 20px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_text_color": "#ffffff"
+            }
+          }
+        ]
+      },
+      {
+        "id": 1526674945408,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000"
+        },
+        "addons": [
+          {
+            "id": 1526674945409,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "DATA PAVES THE WAY TO HELP OLDER ADULTS GET AROUND",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/MaastoStory/scos_datastory_aging_yellow_72ppi.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1526674945410,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 4 intro",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><img src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" style=\"position: absolute;padding-right: 5px;\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>DATA PAVES THE WAY TO HELP OLDER ADULTS GET AROUND</strong></span></p>\n<p>Central Ohio's 65+ population is expected to double in the next 35 years – and the Baby Boomer generation is hardly slowing down. But as they age, many older adults may lack the ability or desire to drive and own a car. In a region characterized by suburban sprawl that also contains transit deserts, there's risk that many older adults could become socially isolated or cut off from critical services.<br /><br /></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "20px 20px 20px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_text_color": "#ffffff"
+            }
+          },
+          {
+            "id": 1526674945411,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 1",
+              "text": "View Story",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "#ffffff",
+              "color": "#000000",
+              "background_color_hover": "#00aeef ",
+              "color_hover": "#000000",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " dataset-button-homepage",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/data-paves-the-way-to-help-older-adults-get-around",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "#ffffff",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              },
+              "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
+            }
+          },
+          {
+            "id": 1526674945412,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Link for Full Block",
+              "text": "",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "",
+              "color": "",
+              "background_color_hover": "",
+              "color_hover": "",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " full-block-link",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/data-paves-the-way-to-help-older-adults-get-around",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "#ffffff",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1526674945416,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000"
+        },
+        "addons": [
+          {
+            "id": 1526674945417,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 5 - parking",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/MaastoStory/scos_datastory_parking_pink_72ppi.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1526674945418,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><img src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" style=\"position: absolute; padding-right: 5px;\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>PARKING TICKETS PILING UP? USE DATA TO DETERMINE WHY</strong></span></p>\n<p>Urban drivers know the headache: circling several blocks looking for an available parking meter; digging for change to feed the meter; then finding an orange ticket on the windshield after an appointment ran a few minutes longer than expected.<br /><br /></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "20px 20px 20px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_text_color": "#ffffff"
+            }
+          },
+          {
+            "id": 1526674945419,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 3",
+              "text": "View Story",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "#ffffff",
+              "color": "#000000",
+              "background_color_hover": "#00aeef",
+              "color_hover": "#000000",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " dataset-button-homepage",
+              "global_use_background": 1,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/parking-tickets-piling-up-use-data-to-determine-why",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              },
+              "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
+            }
+          },
+          {
+            "id": 1526674945420,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Link for Full Block",
+              "text": "",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "",
+              "color": "",
+              "background_color_hover": "",
+              "color_hover": "",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " full-block-link",
+              "global_use_background": 1,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/parking-tickets-piling-up-use-data-to-determine-why",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              }
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1538058567212,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "0px 0px 50px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "background_color": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "background_image": "images/Assets/SCOS_DataStory_RectangleStripedSquares_ScreenedBlack.png",
+      "background_repeat": "no-repeat",
+      "background_size": "contain",
+      "background_position": "100% 100%"
+    },
+    "layout": "4,4,4",
+    "columns": [
+      {
+        "id": 1538058567223,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000"
+        },
+        "addons": [
+          {
+            "id": 1538058567224,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 6 - crash traffic",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/MaastoStory/scos_datastory_traffic_green_72ppi.png",
+              "border_radius": 0,
+              "alt_text": "Image",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          },
+          {
+            "id": 1538058567225,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><img src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" style=\"position: absolute; padding-right: 5px;\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>CRASH DATA PUTS CITY IN THE KNOW FOR IMPROVED TRAFFIC SAFETY</strong></span></p>\n<p>In 2017, there were 1,094 fatal traffic crashes resulting in 1,179 traffic fatalities on Ohio roadways. We believe that data and technology can help reduce this number in the future. Today, professionals responsible for managing and improving the safety of our transportation system must often rely on dispersed and sometimes outdated or incomplete traffic information.<br /><br /></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "20px 20px 20px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_text_color": "#ffffff"
+            }
+          },
+          {
+            "id": 1538058567226,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Story 3",
+              "text": "View Story",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "#ffffff",
+              "color": "#000000",
+              "background_color_hover": "#00aeef",
+              "color_hover": "#000000",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " dataset-button-homepage",
+              "global_use_background": 1,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/crash-data-puts-city-in-the-know-for-improved-traffic-safety",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              },
+              "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
+            }
+          },
+          {
+            "id": 1538058567227,
+            "name": "button",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Link for Full Block",
+              "text": "",
+              "alignment": "sppb-text-right",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "",
+              "background_color": "",
+              "color": "",
+              "background_color_hover": "",
+              "color_hover": "",
+              "button_padding": {
+                "md": "10px 10px 10px 10px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "right",
+              "class": " full-block-link",
+              "global_use_background": 1,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "10px 20px 10px 20px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "url": "/data-stories/crash-data-puts-city-in-the-know-for-improved-traffic-safety",
+              "instFormId": 1512363655835,
+              "shape": "square",
+              "global_use_overlay": 0,
+              "global_background_color": "",
+              "global_boxshadow": "0 0 0 0 ",
+              "font_style": {
+                "weight": 600
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1538058567213,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000",
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "use_border": 0,
+          "background_type": "none"
+        },
+        "addons": []
+      },
+      {
+        "id": 1538058567218,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "background": "#000000",
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "use_border": 0,
+          "background_type": "none"
+        },
+        "addons": []
+      }
+    ]
+  }
+]
