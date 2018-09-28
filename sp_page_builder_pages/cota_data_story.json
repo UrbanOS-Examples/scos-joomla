@@ -385,7 +385,7 @@
               "title_fontsize": "",
               "title_lineheight": "",
               "title_letterspace": "0",
-              "text": "<p>The new bus visualization takes COTA's current streaming data and uses it in new ways that create value for riders. A streaming map feed displays every bus's current location and the direction it is moving. While individual bus location information is available on Transit App and in Google and Apple maps, with this tool, riders can see all buses in a given geographic area. Spending less time waiting at the bus stop improves rider experience and increases the likelihood they will choose the bus, decreasing congestion on the roadways and reducing carbon emissions.</p>\n<p><a class=\"custom-button\" style=\"background: #00aeef; color: #fff; padding: 5px 10px; display: inline-block; font-weight: bold; margin-top: 20px;\" href=\"https://cota.smartcolumsbusos.com\" target=\"_blank\" rel=\"noopener\">View the Map</a></p>",
+              "text": "<p>The new bus visualization takes COTA's current streaming data and uses it in new ways that create value for riders. A streaming map feed displays every bus's current location and the direction it is moving. While individual bus location information is available on Transit App and in Google and Apple maps, with this tool, riders can see all buses in a given geographic area. Spending less time waiting at the bus stop improves rider experience and increases the likelihood they will choose the bus, decreasing congestion on the roadways and reducing carbon emissions.</p>\n<p><a class=\"custom-button\" style=\"background: #00aeef; color: #fff; padding: 5px 10px; display: inline-block; font-weight: bold; margin-top: 20px;\" href=\"https://cota.smartcolumbusos.com\" target=\"_blank\" rel=\"noopener\">View the Map</a></p>",
               "alignment": "",
               "text_fontsize": "",
               "text_lineheight": "",
@@ -429,7 +429,7 @@
               "position": "sppb-text-center",
               "open_lightbox": 0,
               "overlay_color": "rgba(119, 219, 31, .5)",
-              "link": "https://cota.smartcolumsbusos.com",
+              "link": "https://cota.smartcolumbusos.com",
               "class": "",
               "global_background_type": "none",
               "global_background_gradient": {
@@ -487,7 +487,7 @@
               "position": "sppb-text-center",
               "open_lightbox": 0,
               "overlay_color": "rgba(119, 219, 31, .5)",
-              "link": "https://cota.smartcolumsbusos.com",
+              "link": "https://cota.smartcolumbusos.com",
               "class": "",
               "global_background_type": "none",
               "global_background_gradient": {
