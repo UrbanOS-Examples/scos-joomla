@@ -22,16 +22,8 @@
       "no_gutter": 0,
       "id": "",
       "class": "",
-      "padding": {
-        "md": "60px 0px 100px 0px",
-        "sm": "   ",
-        "xs": "   "
-      },
-      "margin": {
-        "md": "0px 0px 0px 0px",
-        "sm": "   ",
-        "xs": "   "
-      },
+      "padding": { "md": "60px 0px 100px 0px", "sm": "   ", "xs": "   " },
+      "margin": { "md": "0px 0px 0px 0px", "sm": "   ", "xs": "   " },
       "color": "",
       "background_color": "#e81e75",
       "background_image": "images/Assets/SCOS_HeroImage_Home5-min-compressed.jpg",
@@ -75,20 +67,10 @@
               "use_link": 0,
               "title_link": "",
               "link_new_tab": "",
-              "title_fontsize": {
-                "md": "50",
-                "sm": "28",
-                "xs": "22"
-              },
-              "title_fontstyle": [
-                "bold"
-              ],
+              "title_fontsize": { "md": "50", "sm": "28", "xs": "22" },
+              "title_fontstyle": ["bold"],
               "title_fontweight": "",
-              "title_lineheight": {
-                "md": "38",
-                "sm": "28",
-                "xs": "22"
-              },
+              "title_lineheight": { "md": "38", "sm": "28", "xs": "22" },
               "title_letterspace": "0",
               "title_margin": {
                 "md": "0px 0px 20px 0px",
@@ -109,17 +91,11 @@
                 "sm": "40px   ",
                 "xs": "20px   "
               },
-              "global_padding": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_use_animation": 1,
               "global_animation": "bounceInDown",
               "global_animationdelay": "100",
-              "title_font_style": {
-                "weight": 900
-              },
+              "title_font_style": { "weight": 900 },
               "use_global_width": 0,
               "global_text_color": "#ffffff",
               "hidden_md": 0,
@@ -138,16 +114,8 @@
               "use_link": 0,
               "title_link": "",
               "link_new_tab": "",
-              "title_fontsize": {
-                "md": "20",
-                "sm": "",
-                "xs": ""
-              },
-              "title_lineheight": {
-                "md": "28",
-                "sm": "",
-                "xs": ""
-              },
+              "title_fontsize": { "md": "20", "sm": "", "xs": "" },
+              "title_lineheight": { "md": "28", "sm": "", "xs": "" },
               "title_letterspace": "0",
               "title_margin": {
                 "md": "5px 0px 15px 0px",
@@ -174,9 +142,7 @@
                 "xs": "   "
               },
               "global_use_animation": 0,
-              "title_font_style": {
-                "weight": 600
-              },
+              "title_font_style": { "weight": 600 },
               "global_text_color": "#ffffff",
               "hidden_md": 0,
               "hidden_sm": 0,
@@ -188,11 +154,7 @@
             "id": 1513192148793,
             "type": "inner_row",
             "settings": {
-              "padding": {
-                "md": "0px 0px 0px 0px",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "padding": { "md": "0px 0px 0px 0px", "sm": "   ", "xs": "   " },
               "margin": {
                 "md": "0px 0px 0px 0px",
                 "sm": "  50px ",
@@ -291,16 +253,8 @@
       "no_gutter": 1,
       "id": "",
       "class": " no-padding-top",
-      "padding": {
-        "md": "10px 0px 10px 0px",
-        "sm": "   ",
-        "xs": "   "
-      },
-      "margin": {
-        "md": "0px 0px 0px 0px",
-        "sm": "   ",
-        "xs": "   "
-      },
+      "padding": { "md": "10px 0px 10px 0px", "sm": "   ", "xs": "   " },
+      "margin": { "md": "0px 0px 0px 0px", "sm": "   ", "xs": "   " },
       "color": "",
       "background_color": "#000000",
       "background_image": "",
@@ -341,11 +295,7 @@
           "background_size": "cover",
           "background_attachment": "scroll",
           "background_position": "50% 50%",
-          "padding": {
-            "md": "0px 20px 0px 20px",
-            "sm": "   ",
-            "xs": "   "
-          },
+          "padding": { "md": "0px 20px 0px 20px", "sm": "   ", "xs": "   " },
           "boxshadow": "",
           "class": "",
           "sm_col": "",
@@ -376,11 +326,7 @@
               "border_color": "",
               "border_width": "",
               "border_radius": "",
-              "margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "separator": "",
               "use_hover": 1,
               "hover_color": "rgba(0, 174, 239, 1)",
@@ -406,11 +352,7 @@
               "global_border_color": "",
               "global_boder_style": "none",
               "global_border_radius": "",
-              "global_margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_padding": {
                 "md": "0px 0px 20px 0px",
                 "sm": "   ",
@@ -471,11 +413,7 @@
               "global_border_color": "",
               "global_boder_style": "none",
               "global_border_radius": "",
-              "global_margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_padding": {
                 "md": "0px 0px 20px 0px",
                 "sm": "   ",
@@ -491,9 +429,7 @@
               "hidden_xs": 0,
               "acl": null,
               "use_global_width": 0,
-              "title_font_style": {
-                "weight": 600
-              }
+              "title_font_style": { "weight": 600 }
             }
           }
         ]
@@ -511,11 +447,7 @@
           "background_size": "cover",
           "background_attachment": "scroll",
           "background_position": "50% 50%",
-          "padding": {
-            "md": "0px 20px 0px 20px",
-            "sm": "   ",
-            "xs": "   "
-          },
+          "padding": { "md": "0px 20px 0px 20px", "sm": "   ", "xs": "   " },
           "boxshadow": "",
           "class": "home-page-center-nav-icons",
           "sm_col": "",
@@ -528,11 +460,7 @@
           "animationduration": "300",
           "animationdelay": "0",
           "items_align_center": 0,
-          "margin": {
-            "md": "   ",
-            "sm": "   ",
-            "xs": "   "
-          },
+          "margin": { "md": "   ", "sm": "   ", "xs": "   " },
           "use_border": 0
         },
         "addons": [
@@ -552,11 +480,7 @@
               "border_color": "",
               "border_width": "",
               "border_radius": "5",
-              "margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "separator": "",
               "use_hover": 1,
               "hover_color": "rgba(0, 174, 239, 1)",
@@ -582,11 +506,7 @@
               "global_border_color": "",
               "global_boder_style": "none",
               "global_border_radius": "",
-              "global_margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_padding": {
                 "md": "0px 0px 20px 0px",
                 "sm": "   ",
@@ -646,11 +566,7 @@
               "global_border_color": "",
               "global_boder_style": "none",
               "global_border_radius": "",
-              "global_margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_padding": {
                 "md": "0px 0px 20px 0px",
                 "sm": "   ",
@@ -666,9 +582,7 @@
               "hidden_xs": 0,
               "acl": null,
               "use_global_width": 0,
-              "title_font_style": {
-                "weight": 600
-              }
+              "title_font_style": { "weight": 600 }
             }
           }
         ]
@@ -704,16 +618,8 @@
             "animationduration": "300",
             "animationdelay": "0"
           },
-          "padding": {
-            "md": "0px 20px 0px 20px",
-            "sm": "   ",
-            "xs": "   "
-          },
-          "margin": {
-            "md": "   ",
-            "sm": "   ",
-            "xs": "   "
-          },
+          "padding": { "md": "0px 20px 0px 20px", "sm": "   ", "xs": "   " },
+          "margin": { "md": "   ", "sm": "   ", "xs": "   " },
           "use_border": 0,
           "class": "home-page-center-nav-icons"
         },
@@ -734,11 +640,7 @@
               "border_color": "",
               "border_width": "",
               "border_radius": "5",
-              "margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "separator": "",
               "use_hover": 1,
               "hover_color": "rgba(0, 174, 239, 1)",
@@ -764,11 +666,7 @@
               "global_border_color": "",
               "global_boder_style": "none",
               "global_border_radius": "",
-              "global_margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_padding": {
                 "md": "0px 0px 20px 0px",
                 "sm": "   ",
@@ -829,11 +727,7 @@
               "global_border_color": "",
               "global_boder_style": "none",
               "global_border_radius": "",
-              "global_margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_padding": {
                 "md": "0px 0px 20px 0px",
                 "sm": "   ",
@@ -849,9 +743,7 @@
               "hidden_xs": 0,
               "acl": null,
               "use_global_width": 0,
-              "title_font_style": {
-                "weight": 600
-              }
+              "title_font_style": { "weight": 600 }
             }
           }
         ]
@@ -869,11 +761,7 @@
           "background_size": "cover",
           "background_attachment": "scroll",
           "background_position": "50% 50%",
-          "padding": {
-            "md": "0px 20px 0px 20px",
-            "sm": "   ",
-            "xs": "   "
-          },
+          "padding": { "md": "0px 20px 0px 20px", "sm": "   ", "xs": "   " },
           "boxshadow": "",
           "class": "home-page-center-nav-icons",
           "sm_col": "",
@@ -886,11 +774,7 @@
           "animationduration": "300",
           "animationdelay": "0",
           "items_align_center": 0,
-          "margin": {
-            "md": "   ",
-            "sm": "   ",
-            "xs": "   "
-          }
+          "margin": { "md": "   ", "sm": "   ", "xs": "   " }
         },
         "addons": [
           {
@@ -909,11 +793,7 @@
               "border_color": "",
               "border_width": "",
               "border_radius": "5",
-              "margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "separator": "",
               "use_hover": 1,
               "hover_color": "rgba(0, 174, 239, 1)",
@@ -939,11 +819,7 @@
               "global_border_color": "",
               "global_boder_style": "none",
               "global_border_radius": "",
-              "global_margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_padding": {
                 "md": "0px 0px 20px 0px",
                 "sm": "   ",
@@ -1004,11 +880,7 @@
               "global_border_color": "",
               "global_boder_style": "none",
               "global_border_radius": "",
-              "global_margin": {
-                "md": "   ",
-                "sm": "   ",
-                "xs": "   "
-              },
+              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
               "global_padding": {
                 "md": "0px 0px 20px 0px",
                 "sm": "   ",
@@ -1024,9 +896,7 @@
               "hidden_xs": 0,
               "acl": null,
               "use_global_width": 0,
-              "title_font_style": {
-                "weight": 600
-              }
+              "title_font_style": { "weight": 600 }
             }
           }
         ]
@@ -1047,16 +917,8 @@
       "columns_align_center": 0,
       "fullscreen": 0,
       "no_gutter": 0,
-      "padding": {
-        "md": "10px 0px 25px 0px",
-        "sm": "   ",
-        "xs": "   "
-      },
-      "margin": {
-        "md": "0px 0px 0px 0px",
-        "sm": "   ",
-        "xs": "   "
-      },
+      "padding": { "md": "10px 0px 25px 0px", "sm": "   ", "xs": "   " },
+      "margin": { "md": "0px 0px 0px 0px", "sm": "   ", "xs": "   " },
       "background_image": "images/Assets/Background-SMRT-Screened.png",
       "background_parallax": 0,
       "background_repeat": "no-repeat",
@@ -1068,11 +930,7 @@
       "show_top_shape": 0,
       "shape_name": "clouds-flat",
       "shape_color": "#e5e5e5",
-      "shape_width": {
-        "md": 100,
-        "sm": 100,
-        "xs": 100
-      },
+      "shape_width": { "md": 100, "sm": 100, "xs": 100 },
       "shape_height": "",
       "shape_flip": false,
       "shape_invert": false,
@@ -1080,11 +938,7 @@
       "show_bottom_shape": 0,
       "bottom_shape_name": "clouds-opacity",
       "bottom_shape_color": "#e5e5e5",
-      "bottom_shape_width": {
-        "md": 100,
-        "sm": 100,
-        "xs": 100
-      },
+      "bottom_shape_width": { "md": 100, "sm": 100, "xs": 100 },
       "bottom_shape_height": "",
       "bottom_shape_flip": false,
       "bottom_shape_invert": false,
@@ -1129,20 +983,10 @@
               "use_link": 0,
               "title_link": "",
               "link_new_tab": "",
-              "title_fontsize": {
-                "md": "50",
-                "sm": "28",
-                "xs": "22"
-              },
-              "title_fontstyle": [
-                "bold"
-              ],
+              "title_fontsize": { "md": "50", "sm": "28", "xs": "22" },
+              "title_fontstyle": ["bold"],
               "title_fontweight": "",
-              "title_lineheight": {
-                "md": "38",
-                "sm": "28",
-                "xs": "22"
-              },
+              "title_lineheight": { "md": "38", "sm": "28", "xs": "22" },
               "title_letterspace": "0",
               "title_margin": {
                 "md": "0px 0px 20px 0px",
@@ -1171,9 +1015,7 @@
               "global_use_animation": 0,
               "global_animation": "bounceInDown",
               "global_animationdelay": "100",
-              "title_font_style": {
-                "weight": 900
-              },
+              "title_font_style": { "weight": 900 },
               "use_global_width": 0,
               "global_text_color": "#000000",
               "hidden_md": 0,
@@ -1192,16 +1034,8 @@
               "use_link": 0,
               "title_link": "",
               "link_new_tab": "",
-              "title_fontsize": {
-                "md": "18",
-                "sm": "",
-                "xs": ""
-              },
-              "title_lineheight": {
-                "md": "28",
-                "sm": "",
-                "xs": ""
-              },
+              "title_fontsize": { "md": "18", "sm": "", "xs": "" },
+              "title_lineheight": { "md": "28", "sm": "", "xs": "" },
               "title_letterspace": "0",
               "title_margin": {
                 "md": "5px 0px 15px 0px",
@@ -1228,9 +1062,7 @@
                 "xs": "   "
               },
               "global_use_animation": 0,
-              "title_font_style": {
-                "weight": 300
-              },
+              "title_font_style": { "weight": 300 },
               "global_text_color": "#000000",
               "hidden_md": 0,
               "hidden_sm": 0,
@@ -1267,11 +1099,7 @@
                     "animationdelay": "0"
                   },
                   "items_align_center": 0,
-                  "padding": {
-                    "md": "   ",
-                    "sm": "   ",
-                    "xs": "   "
-                  },
+                  "padding": { "md": "   ", "sm": "   ", "xs": "   " },
                   "hidden_xs": 0,
                   "hidden_sm": 0,
                   "hidden_md": 0,
@@ -1437,9 +1265,7 @@
                       "hidden_sm": 0,
                       "hidden_xs": 0,
                       "shape": "square",
-                      "font_style": {
-                        "weight": 600
-                      },
+                      "font_style": { "weight": 600 },
                       "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
                     }
                   },
@@ -1484,9 +1310,7 @@
                       "hidden_sm": 0,
                       "hidden_xs": 0,
                       "shape": "square",
-                      "font_style": {
-                        "weight": 600
-                      }
+                      "font_style": { "weight": 600 }
                     }
                   }
                 ]
@@ -1513,11 +1337,7 @@
                     "animationdelay": "0"
                   },
                   "items_align_center": 0,
-                  "padding": {
-                    "md": "   ",
-                    "sm": "   ",
-                    "xs": "   "
-                  },
+                  "padding": { "md": "   ", "sm": "   ", "xs": "   " },
                   "hidden_xs": 0,
                   "hidden_sm": 0,
                   "hidden_md": 0,
@@ -1683,9 +1503,7 @@
                       "hidden_sm": 0,
                       "hidden_xs": 0,
                       "shape": "square",
-                      "font_style": {
-                        "weight": 600
-                      },
+                      "font_style": { "weight": 600 },
                       "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
                     }
                   },
@@ -1730,9 +1548,7 @@
                       "hidden_sm": 0,
                       "hidden_xs": 0,
                       "shape": "square",
-                      "font_style": {
-                        "weight": 600
-                      }
+                      "font_style": { "weight": 600 }
                     }
                   }
                 ]
@@ -1759,11 +1575,7 @@
                     "animationdelay": "0"
                   },
                   "items_align_center": 0,
-                  "padding": {
-                    "md": "   ",
-                    "sm": "   ",
-                    "xs": "   "
-                  },
+                  "padding": { "md": "   ", "sm": "   ", "xs": "   " },
                   "hidden_xs": 0,
                   "hidden_sm": 0,
                   "hidden_md": 0,
@@ -1786,7 +1598,7 @@
                       "title_text_color": "",
                       "title_margin_top": "",
                       "title_margin_bottom": "",
-                      "image": "images/MaastoStory/SCOS_DataStory03_TruckParking_Orange_72ppi.png",
+                      "image": "images/crash_data_story/crash_story_preview.png",
                       "alt_text": "",
                       "position": "sppb-text-center",
                       "open_lightbox": 0,
@@ -1847,7 +1659,7 @@
                       "title_text_color": "",
                       "title_margin_top": "",
                       "title_margin_bottom": "",
-                      "text": "<p><img src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" style=\"position: absolute; padding-right: 5px;\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>DATA FEED CAN HELP TRUCKERS FIND SAFE SPOT TO REST</strong></span></p>\n<p>The commercial trucking industry is considered the lifeblood of our economy, moving more than 10.5 billion tons of freight in the U.S. each year. Trucks dominate freight movements because they can reach nearly any destination.<br /><br /></p>",
+                      "text": "<p><img style=\"position: absolute; padding-right: 5px;\" src=\"images/Assets/SCOS_DataStory_StarCircle_Blue.png\" alt=\"SCOS DataStory StarCircle Blue\" /> <span style=\"display: inline-block; padding-left: 40px; font-size: 13pt;\"><strong>CRASH DATA PUTS CITY IN THE KNOW FOR IMPROVED TRAFFIC SAFETY</strong></span></p>\n<p>In 2017, there were 1,094 fatal traffic crashes resulting in 1,179 traffic fatalities on Ohio roadways. We believe that data and technology can help reduce this number in the future. Today, professionals responsible for managing and improving the safety of our transportation system must often rely on dispersed and sometimes outdated or incomplete traffic information.<br /><br /></p>",
                       "alignment": "sppb-text-left",
                       "class": "",
                       "global_options": "",
@@ -1920,7 +1732,7 @@
                         "sm": "   ",
                         "xs": "   "
                       },
-                      "url": "/data-stories/data-feed-can-help-truckers-find-safe-spot-to-rest",
+                      "url": "/data-stories/crash-data-puts-city-in-the-know-for-improved-traffic-safety",
                       "global_use_background": 0,
                       "global_user_border": 0,
                       "global_use_animation": 0,
@@ -1929,9 +1741,7 @@
                       "hidden_sm": 0,
                       "hidden_xs": 0,
                       "shape": "square",
-                      "font_style": {
-                        "weight": 600
-                      },
+                      "font_style": { "weight": 600 },
                       "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
                     }
                   },
@@ -1967,7 +1777,7 @@
                         "sm": "   ",
                         "xs": "   "
                       },
-                      "url": "/data-stories/data-feed-can-help-truckers-find-safe-spot-to-rest",
+                      "url": "/data-stories/crash-data-puts-city-in-the-know-for-improved-traffic-safety",
                       "global_use_background": 0,
                       "global_user_border": 0,
                       "global_use_animation": 0,
@@ -1976,9 +1786,7 @@
                       "hidden_sm": 0,
                       "hidden_xs": 0,
                       "shape": "square",
-                      "font_style": {
-                        "weight": 600
-                      }
+                      "font_style": { "weight": 600 }
                     }
                   }
                 ]
@@ -2017,9 +1825,7 @@
                 "sm": "   ",
                 "xs": "   "
               },
-              "font_style": {
-                "weight": 600
-              },
+              "font_style": { "weight": 600 },
               "url": "/data-stories",
               "block": "sppb-btn-block",
               "icon": "fa-long-arrow-right",
@@ -2103,9 +1909,7 @@
               "heading_selector": "h2",
               "title_fontsize": "48",
               "title_lineheight": "48px",
-              "title_fontstyle": [
-                "uppercase"
-              ],
+              "title_fontstyle": ["uppercase"],
               "title_letterspace": "0",
               "title_fontweight": "",
               "title_text_color": "",
