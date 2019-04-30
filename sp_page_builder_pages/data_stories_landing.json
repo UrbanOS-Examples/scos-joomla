@@ -27,7 +27,11 @@
         "show_top_shape": "",
         "shape_name": "clouds-flat",
         "shape_color": "#e5e5e5",
-        "shape_width": { "md": 100, "sm": 100, "xs": 100 },
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
         "shape_height": "",
         "shape_flip": false,
         "shape_invert": false,
@@ -35,7 +39,11 @@
         "show_bottom_shape": "",
         "bottom_shape_name": "clouds-opacity",
         "bottom_shape_color": "#e5e5e5",
-        "bottom_shape_width": { "md": 100, "sm": 100, "xs": 100 },
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
         "bottom_shape_height": "",
         "bottom_shape_flip": false,
         "bottom_shape_invert": false,
@@ -46,8 +54,16 @@
         "animationduration": "300",
         "animationdelay": "0"
       },
-      "padding": { "md": "10px 0px 10px 0px", "sm": "   ", "xs": "   " },
-      "margin": { "md": "   ", "sm": "   ", "xs": "   " },
+      "padding": {
+        "md": "10px 0px 10px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
       "background_color": "",
       "columns_align_center": 0,
       "fullscreen": 0,
@@ -84,7 +100,11 @@
             "animationdelay": "0"
           },
           "items_align_center": 0,
-          "padding": { "md": "15px  15px ", "sm": "   ", "xs": "   " },
+          "padding": {
+            "md": "15px  15px ",
+            "sm": "   ",
+            "xs": "   "
+          },
           "hidden_xs": 0,
           "hidden_sm": 0,
           "hidden_md": 0,
@@ -102,7 +122,11 @@
               "use_link": 0,
               "title_link": "",
               "link_new_tab": "",
-              "title_fontsize": { "md": "36", "sm": "", "xs": "" },
+              "title_fontsize": {
+                "md": "36",
+                "sm": "",
+                "xs": ""
+              },
               "title_lineheight": "",
               "title_letterspace": "0",
               "title_margin": {
@@ -118,9 +142,19 @@
               "title_icon_position": "before",
               "alignment": "sppb-text-center",
               "class": "",
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
-              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
-              "title_font_style": { "weight": 900 },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_font_style": {
+                "weight": 900
+              },
               "global_text_color": "#ffffff",
               "global_use_background": 0,
               "global_user_border": 0,
@@ -150,7 +184,11 @@
               "class": "",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "0px 15px 0px 15px",
                 "sm": "   ",
@@ -197,7 +235,11 @@
         "show_top_shape": "",
         "shape_name": "clouds-flat",
         "shape_color": "#e5e5e5",
-        "shape_width": { "md": 100, "sm": 100, "xs": 100 },
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
         "shape_height": "",
         "shape_flip": false,
         "shape_invert": false,
@@ -205,7 +247,11 @@
         "show_bottom_shape": "",
         "bottom_shape_name": "clouds-opacity",
         "bottom_shape_color": "#e5e5e5",
-        "bottom_shape_width": { "md": 100, "sm": 100, "xs": 100 },
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
         "bottom_shape_height": "",
         "bottom_shape_flip": false,
         "bottom_shape_invert": false,
@@ -219,8 +265,16 @@
       "columns_align_center": 0,
       "fullscreen": 0,
       "no_gutter": 0,
-      "padding": { "md": "0px 0px 0px 0px", "sm": "   ", "xs": "   " },
-      "margin": { "md": "   ", "sm": "   ", "xs": "   " },
+      "padding": {
+        "md": "20px 0px 30px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
       "background_parallax": 0,
       "background_video": 0,
       "show_top_shape": 0,
@@ -259,7 +313,11 @@
             "animationdelay": "0"
           },
           "items_align_center": 0,
-          "padding": { "md": "   ", "sm": "   ", "xs": "   " },
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
           "hidden_xs": 0,
           "hidden_sm": 0,
           "hidden_md": 0,
@@ -288,8 +346,16 @@
               "class": "",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
-              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_use_animation": 0,
               "use_global_width": 0,
               "hidden_md": 0,
@@ -360,7 +426,11 @@
               "class": " dataset-button-homepage",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -377,7 +447,9 @@
               "global_use_overlay": 0,
               "global_background_color": "#ffffff",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 },
+              "font_style": {
+                "weight": 600
+              },
               "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
             }
           },
@@ -405,7 +477,11 @@
               "class": " full-block-link",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -422,7 +498,9 @@
               "global_use_overlay": 0,
               "global_background_color": "#ffffff",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 }
+              "font_style": {
+                "weight": 600
+              }
             }
           }
         ]
@@ -449,7 +527,11 @@
             "animationdelay": "0"
           },
           "items_align_center": 0,
-          "padding": { "md": "   ", "sm": "   ", "xs": "   " },
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
           "hidden_xs": 0,
           "hidden_sm": 0,
           "hidden_md": 0,
@@ -478,8 +560,16 @@
               "class": "",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
-              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_use_animation": 0,
               "use_global_width": 0,
               "hidden_md": 0,
@@ -550,7 +640,11 @@
               "class": " dataset-button-homepage",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -567,7 +661,9 @@
               "global_use_overlay": 0,
               "global_background_color": "#ffffff",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 },
+              "font_style": {
+                "weight": 600
+              },
               "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
             }
           },
@@ -595,7 +691,11 @@
               "class": " full-block-link",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -612,7 +712,9 @@
               "global_use_overlay": 0,
               "global_background_color": "#ffffff",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 }
+              "font_style": {
+                "weight": 600
+              }
             }
           }
         ]
@@ -649,8 +751,16 @@
             "animationdelay": "0"
           },
           "items_align_center": 0,
-          "padding": { "md": "   ", "sm": "   ", "xs": "   " },
-          "margin": { "md": "   ", "sm": "   ", "xs": "   " },
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
           "use_border": 0,
           "background": "#000000"
         },
@@ -677,8 +787,16 @@
               "class": "",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
-              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_use_animation": 0,
               "use_global_width": 0,
               "hidden_md": 0,
@@ -749,7 +867,11 @@
               "class": " dataset-button-homepage",
               "global_use_background": 1,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -766,7 +888,9 @@
               "global_use_overlay": 0,
               "global_background_color": "",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 },
+              "font_style": {
+                "weight": 600
+              },
               "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
             }
           },
@@ -794,7 +918,11 @@
               "class": " full-block-link",
               "global_use_background": 1,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -811,7 +939,9 @@
               "global_use_overlay": 0,
               "global_background_color": "",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 }
+              "font_style": {
+                "weight": 600
+              }
             }
           }
         ]
@@ -846,7 +976,11 @@
         "show_top_shape": "",
         "shape_name": "clouds-flat",
         "shape_color": "#e5e5e5",
-        "shape_width": { "md": 100, "sm": 100, "xs": 100 },
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
         "shape_height": "",
         "shape_flip": false,
         "shape_invert": false,
@@ -854,7 +988,11 @@
         "show_bottom_shape": "",
         "bottom_shape_name": "clouds-opacity",
         "bottom_shape_color": "#e5e5e5",
-        "bottom_shape_width": { "md": 100, "sm": 100, "xs": 100 },
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
         "bottom_shape_height": "",
         "bottom_shape_flip": false,
         "bottom_shape_invert": false,
@@ -868,8 +1006,16 @@
       "columns_align_center": 0,
       "fullscreen": 0,
       "no_gutter": 0,
-      "padding": { "md": "0px 0px 0px 0px", "sm": "   ", "xs": "   " },
-      "margin": { "md": "   ", "sm": "   ", "xs": "   " },
+      "padding": {
+        "md": "0px 0px 30px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
       "background_parallax": 0,
       "background_video": 0,
       "show_top_shape": 0,
@@ -907,7 +1053,11 @@
             "animationdelay": "0"
           },
           "items_align_center": 0,
-          "padding": { "md": "   ", "sm": "   ", "xs": "   " },
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
           "hidden_xs": 0,
           "hidden_sm": 0,
           "hidden_md": 0,
@@ -936,8 +1086,16 @@
               "class": "",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
-              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_use_animation": 0,
               "use_global_width": 0,
               "hidden_md": 0,
@@ -1008,7 +1166,11 @@
               "class": " dataset-button-homepage",
               "global_use_background": 1,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -1025,7 +1187,9 @@
               "global_use_overlay": 0,
               "global_background_color": "",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 },
+              "font_style": {
+                "weight": 600
+              },
               "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
             }
           },
@@ -1053,7 +1217,11 @@
               "class": " full-block-link",
               "global_use_background": 1,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -1070,7 +1238,9 @@
               "global_use_overlay": 0,
               "global_background_color": "",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 }
+              "font_style": {
+                "weight": 600
+              }
             }
           },
           {
@@ -1095,8 +1265,16 @@
               "class": "",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
-              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_use_animation": 0,
               "use_global_width": 0,
               "hidden_md": 0,
@@ -1167,7 +1345,11 @@
             "animationdelay": "0"
           },
           "items_align_center": 0,
-          "padding": { "md": "   ", "sm": "   ", "xs": "   " },
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
           "hidden_xs": 0,
           "hidden_sm": 0,
           "hidden_md": 0,
@@ -1196,8 +1378,16 @@
               "class": "",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
-              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_use_animation": 0,
               "use_global_width": 0,
               "hidden_md": 0,
@@ -1268,7 +1458,11 @@
               "class": " dataset-button-homepage",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -1285,7 +1479,9 @@
               "global_use_overlay": 0,
               "global_background_color": "#ffffff",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 },
+              "font_style": {
+                "weight": 600
+              },
               "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
             }
           },
@@ -1313,7 +1509,11 @@
               "class": " full-block-link",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -1330,7 +1530,9 @@
               "global_use_overlay": 0,
               "global_background_color": "#ffffff",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 }
+              "font_style": {
+                "weight": 600
+              }
             }
           }
         ]
@@ -1357,7 +1559,11 @@
             "animationdelay": "0"
           },
           "items_align_center": 0,
-          "padding": { "md": "   ", "sm": "   ", "xs": "   " },
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
           "hidden_xs": 0,
           "hidden_sm": 0,
           "hidden_md": 0,
@@ -1386,8 +1592,16 @@
               "class": "",
               "global_use_background": 0,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
-              "global_padding": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_use_animation": 0,
               "use_global_width": 0,
               "hidden_md": 0,
@@ -1458,7 +1672,11 @@
               "class": " dataset-button-homepage",
               "global_use_background": 1,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -1475,7 +1693,9 @@
               "global_use_overlay": 0,
               "global_background_color": "",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 },
+              "font_style": {
+                "weight": 600
+              },
               "global_custom_css": "a.dataset-button-homepage {\n    position: absolute;\n    right: 20px;\n    bottom: 50px;\n}"
             }
           },
@@ -1503,7 +1723,11 @@
               "class": " full-block-link",
               "global_use_background": 1,
               "global_user_border": 0,
-              "global_margin": { "md": "   ", "sm": "   ", "xs": "   " },
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
               "global_padding": {
                 "md": "10px 20px 10px 20px",
                 "sm": "   ",
@@ -1520,7 +1744,9 @@
               "global_use_overlay": 0,
               "global_background_color": "",
               "global_boxshadow": "0 0 0 0 ",
-              "font_style": { "weight": 600 }
+              "font_style": {
+                "weight": 600
+              }
             }
           }
         ]
