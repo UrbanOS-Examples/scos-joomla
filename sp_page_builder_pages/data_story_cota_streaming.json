@@ -1,0 +1,2429 @@
+[
+  {
+    "id": 1512078181064,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "Hero Section 02",
+      "separator1": "",
+      "title": "",
+      "heading_selector": "h2",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_text_color": "#000000",
+      "title_margin_top": "",
+      "title_margin_bottom": "",
+      "separator2": "",
+      "subtitle": "",
+      "subtitle_fontsize": "",
+      "title_position": "sppb-text-left",
+      "columns_equal_height": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "id": "",
+      "class": "",
+      "padding": {
+        "md": "50px 0px 65px 0px",
+        "sm": "100px 0px 50px 0px",
+        "xs": "60px 0px 10px 0px"
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "color": "rgba(255, 255, 255, 1)",
+      "background_color": "",
+      "background_image": "images/streaming_data_story/background.png",
+      "background_parallax": 0,
+      "overlay": "",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_attachment": "inherit",
+      "background_position": "50% 50%",
+      "background_video": 0,
+      "external_background_video": "0",
+      "background_video_mp4": "",
+      "background_video_ogv": "",
+      "background_external_video": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animation": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "columns_align_center": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "background_type": "image"
+    },
+    "layout": "6,6",
+    "columns": [
+      {
+        "id": 1512078181099,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "15px   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512078181100,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "STREAMING DATA FEED SHOWS RIDERS WHERE THEIR BUS IS IN REAL-TIME",
+              "title": "STREAMING DATA FEED SHOWS RIDERS WHERE THEIR BUS IS IN REAL-TIME",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "32",
+                "sm": "50",
+                "xs": "24"
+              },
+              "title_fontstyle": [
+                "bold"
+              ],
+              "title_fontweight": "",
+              "title_lineheight": {
+                "md": "49",
+                "sm": "70",
+                "xs": "36"
+              },
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "0px 0px 2px 0px",
+                "sm": "0px 0px 10px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "0px 0px 0px 0px",
+                "xs": "0px 0px 0px 0px"
+              },
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_width": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_font_style": {
+                "weight": 900,
+                "uppercase": true
+              },
+              "global_text_color": "#000000"
+            }
+          },
+          {
+            "id": 1512078181101,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_fontstyle": "",
+              "title_letterspace": "0",
+              "title_fontweight": "",
+              "text": "<p>The Central Ohio Transit Authority is the region's public transportation leader, with nearly 19 million passenger trips in 2017. For many residents, the COTA bus is their ride to work, to school, to the doctor or to the grocery store. COTA was named Outstanding Public Transportation System among midsize agencies in 2018 by the American Public Transportation Association. Innovation was one of the qualities that earned it this distinction, and technology played no small role. One of COTA's recent advancements was the introduction of real-time bus GPS data, which debuted in the Transit App in 2016. COTA shares this data with the Smart Columbus Operating System, and for the first time riders can now see all buses in the vicinity on a map visualization.</p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": {
+                "md": "14",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": {
+                "md": "21",
+                "sm": "",
+                "xs": ""
+              },
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "  0px ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "global_animationdelay": "100",
+              "global_text_color": "#000000",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      },
+      {
+        "id": 1512078181103,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {},
+        "addons": [
+          {
+            "id": 1512078181104,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h5",
+              "title_fontsize": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_lineheight": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_letterspace": "0",
+              "image": "images/streaming_data_story/cota_bus.png",
+              "alt_text": "beep beep",
+              "position": "sppb-text-right",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_margin": {
+                "md": "20px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "title_font_style": {
+                "italic": true
+              },
+              "title_position": "bottom",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_use_animation": 0,
+              "title_text_color": "#000000",
+              "global_custom_css": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512081174325,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "default": {
+        "admin_label": "",
+        "title": "",
+        "heading_selector": "h3",
+        "title_fontsize": "",
+        "title_fontweight": "",
+        "title_position": "sppb-text-center",
+        "columns_align_center": 0,
+        "fullscreen": 0,
+        "no_gutter": 0,
+        "padding": "50px 0px 50px 0px",
+        "margin": "0px 0px 0px 0px",
+        "background_image": "",
+        "background_parallax": "0",
+        "background_repeat": "no-repeat",
+        "background_size": "cover",
+        "background_attachment": "fixed",
+        "background_position": "0 0",
+        "background_video": "0",
+        "external_background_video": "0",
+        "show_top_shape": "",
+        "shape_name": "clouds-flat",
+        "shape_color": "#e5e5e5",
+        "shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "shape_height": "",
+        "shape_flip": false,
+        "shape_invert": false,
+        "shape_to_front": false,
+        "show_bottom_shape": "",
+        "bottom_shape_name": "clouds-opacity",
+        "bottom_shape_color": "#e5e5e5",
+        "bottom_shape_width": {
+          "md": 100,
+          "sm": 100,
+          "xs": 100
+        },
+        "bottom_shape_height": "",
+        "bottom_shape_flip": false,
+        "bottom_shape_invert": false,
+        "bottom_shape_to_front": false,
+        "hidden_xs": "",
+        "hidden_sm": "",
+        "hidden_md": "",
+        "animationduration": "300",
+        "animationdelay": "0"
+      },
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "30px  30px ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "60px 0px 0px 0px",
+        "xs": "60px 0px 0px 0px"
+      },
+      "background_parallax": 0,
+      "background_video": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "background_color": "",
+      "class": " padding-top-0"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1512081174326,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          }
+        },
+        "addons": [
+          {
+            "id": 1512081837866,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Description",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>The new bus visualization takes COTA's current streaming data and uses it in new ways that create value for riders. A streaming map feed displays every bus's current location and the direction it is moving. While individual bus location information is available on Transit App and in Google and Apple maps, with this tool, riders can see all buses in a given geographic area. Spending less time waiting at the bus stop improves rider experience and increases the likelihood they will choose the bus, decreasing congestion on the roadways and reducing carbon emissions.</p>\n<p><a class=\"custom-button\" style=\"background: #00aeef; color: #fff; padding: 5px 10px; display: inline-block; font-weight: bold; margin-top: 20px;\" href=\"https://cota.smartcolumbusos.com\" target=\"_blank\" rel=\"noopener\">View the Map</a></p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_margin": {
+                "md": "20px 0px 20px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "0px 15px 0px 15px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_custom_css": "a.custom-button:hover, a.custom-button:focus {\n    color: #fff !important;\n    text-decoration: none !important;\n}"
+            }
+          },
+          {
+            "id": 1537970176725,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/streaming_data_story/cota_map.png",
+              "border_radius": 0,
+              "alt_text": "",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "https://cota.smartcolumbusos.com",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 15px 30px 15px",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 1,
+              "acl": "",
+              "global_link_hover_color": "",
+              "target": "_blank"
+            }
+          },
+          {
+            "id": 1537970176732,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_position": "top",
+              "image": "images/streaming_data_story/cota_map_mobile.png",
+              "border_radius": 0,
+              "alt_text": "",
+              "position": "sppb-text-center",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "https://cota.smartcolumbusos.com",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 30px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": 0,
+              "hidden_md": 1,
+              "hidden_sm": 1,
+              "hidden_xs": 0,
+              "acl": "",
+              "global_link_hover_color": "",
+              "target": "_blank"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1537971766457,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": {
+        "md": "24",
+        "sm": "",
+        "xs": ""
+      },
+      "title_fontweight": "bold",
+      "title_position": "sppb-text-left",
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 20px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "none",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": "",
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "external_background_video": "0",
+      "video_loop": false,
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#333333",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": 0,
+      "shape_invert": 0,
+      "shape_to_front": 0,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animationduration": "300",
+      "animationdelay": "0",
+      "title_text_color": "#e81e75",
+      "title_margin_bottom": {
+        "md": "",
+        "sm": "",
+        "xs": ""
+      }
+    },
+    "layout": "4,8,12",
+    "columns": [
+      {
+        "id": 1537983002442,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {},
+        "addons": [
+          {
+            "id": 1537983002445,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "How Real Time Bus Information Helps Sarah Get Around Columbus",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_lineheight": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_letterspace": "0",
+              "title_text_transform": "uppercase",
+              "title_margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 15px 0px 15px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 10px 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "global_text_color": " #e81e75",
+              "title_font_style": {
+                "weight": 700
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1537971766454,
+        "class_name": "col-md-4",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": "",
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "items_align_center": 0,
+          "use_border": 0,
+          "border_width": {
+            "md": "4",
+            "sm": "",
+            "xs": ""
+          },
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0,
+          "animationduration": "300",
+          "animationdelay": "0",
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "border_color": "#333333",
+          "boder_style": "solid",
+          "class": "vertical-bar"
+        },
+        "addons": [
+          {
+            "id": 1537971766460,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<h2><strong>Sarah Abernathy*</strong></h2>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": {
+                "md": "0",
+                "sm": "",
+                "xs": ""
+              },
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": {
+                "ho": "0",
+                "vo": "0",
+                "blur": "0",
+                "spread": "0",
+                "color": "#ffffff",
+                "inset": false
+              },
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": ""
+            }
+          },
+          {
+            "id": 1537971766465,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h6",
+              "title_fontsize": {
+                "md": "10",
+                "sm": "",
+                "xs": ""
+              },
+              "title_lineheight": {
+                "md": "20",
+                "sm": "",
+                "xs": ""
+              },
+              "title_letterspace": "0",
+              "title_position": "bottom",
+              "image": "images/streaming_data_story/persona.png",
+              "border_radius": 0,
+              "alt_text": "",
+              "position": "sppb-text-left",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 20px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "title_text_color": "#000000",
+              "title_font_family": "Arial",
+              "title_margin_top": {
+                "md": "2",
+                "sm": "",
+                "xs": ""
+              }
+            }
+          },
+          {
+            "id": 1537992713396,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "Neighborhood",
+              "heading_selector": "h5",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_text_transform": "none",
+              "title_margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0px 0",
+                "sm": "0 0 0px 0",
+                "xs": "0 0 0px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_font_style": {
+                "weight": 700
+              }
+            }
+          },
+          {
+            "id": 1537992713403,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p class=\"persona-content\">Clintonville</p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0px 0",
+                "sm": "0 0 0px 0",
+                "xs": "0 0 0px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": ""
+            }
+          },
+          {
+            "id": 1537992713408,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "Profession",
+              "heading_selector": "h5",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_text_transform": "none",
+              "title_margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_font_style": {
+                "weight": 700
+              }
+            }
+          },
+          {
+            "id": 1537992713413,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p class=\"persona-content\">Finance Manager at Chase</p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0px 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": ""
+            }
+          },
+          {
+            "id": 1537992713418,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "Age",
+              "heading_selector": "h5",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_text_transform": "none",
+              "title_margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0px 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_font_style": {
+                "weight": 700
+              }
+            }
+          },
+          {
+            "id": 1537992713423,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "32",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0px 0",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": ""
+            }
+          },
+          {
+            "id": 1537971766470,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<h6>*fictionalization</h6>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 0 0",
+                "xs": "0 0 0 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": ".persona-header {\n  margin: 0;\n}\n\n.persona-content {\n  margin: 0px 0 6px;\n}",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": ""
+            }
+          }
+        ]
+      },
+      {
+        "id": 1537971766455,
+        "class_name": "col-md-8",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": "",
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "items_align_center": 0,
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0"
+        },
+        "addons": [
+          {
+            "id": 1537971766566,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>Sarah is in downtown Columbus leaving a doctor’s appointment. She used a ride-sharing service to get to the appointment but is wondering if it might be easier and less expensive to jump on a COTA bus to get back to Clintonville. She looks up the Smart Columbus Operating System live data stream of COTA bus locations on her phone and sees there is a Line 2 bus heading north on High Street nearby. With the knowledge that the bus is right there, Sarah is more likely to ride the bus home. The real-time feature creates a more connected environment, encouraging transit use, which improves Central Ohio’s air quality and reduces congestion.</p>",
+              "alignment": "",
+              "text_fontsize": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": {
+                "md": "30",
+                "sm": "",
+                "xs": ""
+              },
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 30px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": {
+                "ho": "0",
+                "vo": "0",
+                "blur": "0",
+                "spread": "0",
+                "color": "#ffffff",
+                "inset": false
+              },
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1537971766582,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "",
+      "title": "",
+      "heading_selector": "h2",
+      "title_fontsize": {
+        "md": "",
+        "sm": "",
+        "xs": ""
+      },
+      "title_fontweight": "bold",
+      "title_position": "sppb-text-left",
+      "columns_align_center": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "padding": {
+        "md": "15px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "margin": {
+        "md": "0px 0px 0px 0px",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "background_type": "none",
+      "background_gradient": {
+        "color": "#00c6fb",
+        "color2": "#005bea",
+        "deg": "45",
+        "type": "linear"
+      },
+      "background_image": "",
+      "background_parallax": "0",
+      "background_repeat": "no-repeat",
+      "background_size": "cover",
+      "background_attachment": "fixed",
+      "background_position": "0 0",
+      "external_background_video": "0",
+      "video_loop": false,
+      "show_top_shape": 0,
+      "shape_name": "clouds-flat",
+      "shape_color": "#e5e5e5",
+      "shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "shape_height": "",
+      "shape_flip": false,
+      "shape_invert": false,
+      "shape_to_front": false,
+      "show_bottom_shape": 0,
+      "bottom_shape_name": "clouds-opacity",
+      "bottom_shape_color": "#e5e5e5",
+      "bottom_shape_width": {
+        "md": 100,
+        "sm": 100,
+        "xs": 100
+      },
+      "bottom_shape_height": "",
+      "bottom_shape_flip": false,
+      "bottom_shape_invert": false,
+      "bottom_shape_to_front": false,
+      "hidden_xs": "",
+      "hidden_sm": "",
+      "hidden_md": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "title_text_color": "#000000"
+    },
+    "layout": "12",
+    "columns": [
+      {
+        "id": 1537971766581,
+        "class_name": "col-md-12",
+        "visibility": true,
+        "settings": {
+          "background_type": "none",
+          "background_gradient": {
+            "color": "#00c6fb",
+            "color2": "#005bea",
+            "deg": "45",
+            "type": "linear"
+          },
+          "background_image": "",
+          "background_repeat": "no-repeat",
+          "background_size": "cover",
+          "background_attachment": "scroll",
+          "background_position": "0 0",
+          "items_align_center": 0,
+          "use_border": 0,
+          "border_width": "",
+          "border_radius": 0,
+          "boxshadow": "0 0 0 0 #fff",
+          "sm_col": "",
+          "xs_col": "",
+          "hidden_xs": "",
+          "hidden_sm": "",
+          "hidden_md": "",
+          "animationduration": "300",
+          "animationdelay": "0",
+          "padding": {
+            "md": " 15px  15px",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "margin": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          }
+        },
+        "addons": [
+          {
+            "id": 1537983002479,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "About The Data",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_text_transform": "uppercase",
+              "title_margin": {
+                "md": "0px 0px 10px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 15px  15px",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_font_style": {
+                "weight": 700,
+                "uppercase": false
+              }
+            }
+          },
+          {
+            "id": 1537971766585,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "About The Data Text",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>This data uses a modified GTFS standard to provide near real time locations for COTA buses. A link to the standard can be found here: <a href=\"https://developers.google.com/transit/gtfs/reference/\" target=\"_blank\" rel=\"noopener\">https://developers.google.com/transit/gtfs/reference/</a></p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "10px 0 10px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": ""
+            }
+          },
+          {
+            "id": 1537983002498,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "Websocket",
+              "heading_selector": "h4",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_text_transform": "uppercase",
+              "title_margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "10px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "10px 0 10px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_font_style": {
+                "weight": 700
+              },
+              "global_text_color": "#e81e75"
+            }
+          },
+          {
+            "id": 1537971766608,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "WSS URL",
+              "title": "",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>URL: wss://streaming.smartcolumbusos.com/socket/websocket</p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "wrap-text",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_text_color": "#e81e75",
+              "font_family": "Arial"
+            }
+          },
+          {
+            "id": 1537983002509,
+            "name": "heading",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "Sample Code",
+              "heading_selector": "h4",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "title_text_transform": "uppercase",
+              "title_margin": {
+                "md": "0px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_padding": {
+                "md": "10px 0px 0px 0px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "title_icon_position": "before",
+              "alignment": "sppb-text-left",
+              "title_text_shadow": "",
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "10px 0 10px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_font_style": {
+                "weight": 700
+              },
+              "global_text_color": "#e81e75"
+            }
+          },
+          {
+            "id": 1537982427771,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Node JS Example Header",
+              "title": "",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "Node JS Example using <a href=\"https://github.com/websockets/ws\" target=\"_blank\" rel=\"noopener\">ws library</a>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_text_color": "#e81e75"
+            }
+          },
+          {
+            "id": 1537983002405,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Sample Code JS",
+              "title": "",
+              "heading_selector": "h4",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "const WebSocket = require('ws');</br>\nconst ws = new WebSocket('wss://streaming.smartcolumbusos.com/socket/websocket');</br>\nws.on('open', function open() {</br>\n&nbsp; let joinMesage = {</br>\n&nbsp; &nbsp; \"topic\": \"vehicle_position\",</br>\n&nbsp; &nbsp; \"event\": \"phx_join\",</br>\n&nbsp; &nbsp; \"payload\": {},</br>\n&nbsp; &nbsp; \"ref\": 1</br>\n&nbsp; }</br>\n&nbsp; console.log('starting listener');</br>\n&nbsp; ws.send(JSON.stringify(joinMesage));</br>\n});</br>\nws.on('message', function incoming(data) {&nbsp;console.log(data); }); // ping the server every 30 seconds to let it know we're still here</br>\nsetInterval(function ping() {</br>\n&nbsp; let heartbeat = {</br>\n&nbsp; &nbsp; \"topic\": \"phoenix\",</br>\n&nbsp; &nbsp; \"event\": \"heartbeat\",</br>\n&nbsp; &nbsp; \"payload\": {},</br>\n&nbsp; &nbsp; \"ref\": 1</br>\n&nbsp; };</br>\n&nbsp; ws.send(JSON.stringify(heartbeat))</br>\n}, 30000)</br>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "code-block",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 30px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "acl": "",
+              "global_background_color": "#d9d9d9"
+            }
+          },
+          {
+            "id": 1537986962842,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "WSTA Header",
+              "title": "",
+              "heading_selector": "h2",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "Example using <a href=\"https://github.com/esphen/wsta\" target=\"_blank\" rel=\"noopener\">WSTA</a> on a terminal",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 0 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "title_text_color": "#e81e75"
+            }
+          },
+          {
+            "id": 1537983002428,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "Code Example WSTA",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p>wsta -I --ping 50 --ping-msg '{\"topic\":\"phoenix\",\"event\":\"heartbeat\",\"payload\":{},\"ref\":\"1\"}' 'wss://streaming.smartcolumbusos.com/socket/websocket' '{\"topic\":\"vehicle_position\",\"event\":\"phx_join\",\"payload\":{},\"ref\":\"1\"}'</p>\n",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "code-block",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 30px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": "",
+              "global_background_color": "#D9D9D9"
+            }
+          },
+          {
+            "id": 1537983002458,
+            "name": "text_block",
+            "visibility": true,
+            "settings": {
+              "admin_label": "View Dataset Button",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "text": "<p><a class=\"custom-button\" style=\"background: #00aeef; color: #fff; padding: 5px 10px; display: inline-block; font-weight: bold; margin-top: 20px;\" href=\"https://discovery.smartcolumbusos.com/dataset/central_ohio_transit_authority/cota_stream\" target=\"_blank\" rel=\"noopener\">Explore the Dataset</a></p>",
+              "alignment": "",
+              "text_fontsize": "",
+              "text_lineheight": "",
+              "dropcap": 0,
+              "class": "",
+              "global_background_type": "none",
+              "global_background_gradient": {
+                "color": "#00c6fb",
+                "color2": "#005bea",
+                "deg": "45",
+                "type": "linear"
+              },
+              "global_use_overlay": 0,
+              "global_background_repeat": "no-repeat",
+              "global_background_size": "cover",
+              "global_background_attachment": "inherit",
+              "global_user_border": 0,
+              "global_border_width": "",
+              "global_border_radius": 0,
+              "global_margin": {
+                "md": "0 0 30px 0",
+                "sm": "0 0 20px 0",
+                "xs": "0 0 10px 0"
+              },
+              "global_padding": "",
+              "global_boxshadow": "0 0 0 0 #ffffff",
+              "global_use_animation": 0,
+              "global_animationduration": "300",
+              "global_animationdelay": "0",
+              "global_custom_css": "",
+              "use_global_width": "0",
+              "hidden_md": "0",
+              "hidden_sm": "0",
+              "hidden_xs": "0",
+              "acl": ""
+            }
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1512081837902,
+    "visibility": true,
+    "collapse": false,
+    "settings": {
+      "admin_label": "Hero Section 02",
+      "separator1": "",
+      "title": "",
+      "heading_selector": "h3",
+      "title_fontsize": "",
+      "title_fontweight": "",
+      "title_text_color": "",
+      "title_margin_top": "",
+      "title_margin_bottom": "",
+      "separator2": "",
+      "subtitle": "",
+      "subtitle_fontsize": "",
+      "title_position": "sppb-text-left",
+      "columns_equal_height": 0,
+      "fullscreen": 0,
+      "no_gutter": 0,
+      "id": "",
+      "class": "",
+      "padding": {
+        "md": "   ",
+        "sm": "100px 0px 50px 0px",
+        "xs": "60px 0px 10px 0px"
+      },
+      "margin": {
+        "md": "   ",
+        "sm": "   ",
+        "xs": "   "
+      },
+      "color": "rgba(255, 255, 255, 1)",
+      "background_color": "",
+      "background_image": "",
+      "background_parallax": 0,
+      "overlay": "",
+      "background_repeat": "no-repeat",
+      "background_size": "inherit",
+      "background_attachment": "scroll",
+      "background_position": "100% 100%",
+      "background_video": 0,
+      "external_background_video": "0",
+      "background_video_mp4": "",
+      "background_video_ogv": "",
+      "background_external_video": "",
+      "hidden_xs": 0,
+      "hidden_sm": 0,
+      "hidden_md": 0,
+      "animation": "",
+      "animationduration": "300",
+      "animationdelay": "0",
+      "columns_align_center": 0,
+      "show_top_shape": 0,
+      "show_bottom_shape": 0
+    },
+    "layout": "6,6",
+    "columns": [
+      {
+        "id": 1512081837889,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512081837890,
+            "name": "heading",
+            "visibility": false,
+            "settings": {
+              "admin_label": "FOR THE GREATER GOOD",
+              "title": "FOR THE GREATER GOOD",
+              "heading_selector": "h2",
+              "use_link": 0,
+              "title_link": "",
+              "link_new_tab": "",
+              "title_fontsize": {
+                "md": "36",
+                "sm": "50",
+                "xs": "24"
+              },
+              "title_fontstyle": [
+                "bold"
+              ],
+              "title_fontweight": "",
+              "title_lineheight": {
+                "md": "49",
+                "sm": "70",
+                "xs": "36"
+              },
+              "title_letterspace": "0",
+              "title_margin": {
+                "md": "px 0px 0px 0px",
+                "sm": "0px 0px 10px 0px",
+                "xs": "0px 0px 10px 0px"
+              },
+              "title_padding": {
+                "md": "0px 0px 0px 0px",
+                "sm": "0px 0px 0px 0px",
+                "xs": "0px 0px 0px 0px"
+              },
+              "alignment": "sppb-text-left",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "global_width": {
+                "md": "",
+                "sm": "",
+                "xs": ""
+              },
+              "title_font_style": {
+                "weight": 800
+              },
+              "global_text_color": "#000000"
+            }
+          },
+          {
+            "id": 1512081837891,
+            "name": "text_block",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_fontstyle": "",
+              "title_letterspace": "0",
+              "title_fontweight": "",
+              "text": "<p class=\"p1\"><span class=\"s1\">Local Franklin County officials, who see the same bridges getting hit over and over, are concerned about the costs in safety, commuter frustration when roads shut down, and in lost time for the 1,799* Columbus-based logistics, delivery and trucking companies.</span></p>\n<p class=\"p1\"><span class=\"s1\"><br />Even truck drivers with an oversize vehicle permit who know precisely what roads to take need this yet-to-be-created app. Because they’re human and have to go off their preset route to get food, find a place to sleep or to use a bathroom. When they do, they end up stuck under a bridge.<br /></span></p>\n<p class=\"p1\"><span class=\"s1\"><br />Smart Columbus is about “using mobility options to improve opportunities for people.” Help us make the ride smoother for everyone.</span></p>\n<p class=\"p1\"><span class=\"s1\"><br />*Source: Columbus Chamber of Commerce</span></p>",
+              "alignment": "sppb-text-left",
+              "text_fontsize": {
+                "md": "14",
+                "sm": "",
+                "xs": ""
+              },
+              "text_lineheight": {
+                "md": "21",
+                "sm": "",
+                "xs": ""
+              },
+              "dropcap": 0,
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_animation": "fadeInRight",
+              "global_animationdelay": "100",
+              "global_text_color": "#000000",
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0,
+              "use_global_width": 0
+            }
+          },
+          {
+            "id": 1512081837892,
+            "name": "button",
+            "visibility": false,
+            "settings": {
+              "admin_label": "",
+              "text": "Get Started",
+              "alignment": "sppb-text-left",
+              "letterspace": "0",
+              "type": "custom",
+              "appearance": "outline",
+              "background_color": "#fff",
+              "color": "#FFFFFF",
+              "background_color_hover": "#fff",
+              "color_hover": "rgba(0, 0, 0, 0.7)",
+              "button_padding": {
+                "md": "12px 30px 12px 30px",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "icon_position": "left",
+              "class": "",
+              "url": "#",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "  30px ",
+                "xs": "  15px "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "global_text_color": "#fff",
+              "font_style": {
+                "weight": 300
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": 1512081837893,
+        "class_name": "col-md-6",
+        "visibility": true,
+        "settings": {
+          "default": {
+            "background_image": "",
+            "background_repeat": "no-repeat",
+            "background_size": "cover",
+            "background_attachment": "scroll",
+            "background_position": "0 0",
+            "items_align_center": 0,
+            "boxshadow": "0 0 0 0 #fff",
+            "sm_col": "",
+            "xs_col": "",
+            "hidden_xs": "",
+            "hidden_sm": "",
+            "hidden_md": "",
+            "animationduration": "300",
+            "animationdelay": "0"
+          },
+          "items_align_center": 0,
+          "padding": {
+            "md": "50px   ",
+            "sm": "   ",
+            "xs": "   "
+          },
+          "hidden_xs": 0,
+          "hidden_sm": 0,
+          "hidden_md": 0
+        },
+        "addons": [
+          {
+            "id": 1512081837894,
+            "name": "image",
+            "visibility": true,
+            "settings": {
+              "admin_label": "",
+              "title": "",
+              "heading_selector": "h3",
+              "title_fontsize": "",
+              "title_lineheight": "",
+              "title_letterspace": "0",
+              "image": "images/BridgeStoryImages/SCOS_DataStory01_SMRT_Footer.png",
+              "alt_text": "Image",
+              "position": "sppb-text-right",
+              "open_lightbox": 0,
+              "overlay_color": "rgba(119, 219, 31, .5)",
+              "link": "",
+              "class": "",
+              "global_use_background": 0,
+              "global_user_border": 0,
+              "global_margin": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_padding": {
+                "md": "   ",
+                "sm": "   ",
+                "xs": "   "
+              },
+              "global_use_animation": 0,
+              "use_global_width": 0,
+              "hidden_md": 0,
+              "hidden_sm": 0,
+              "hidden_xs": 0
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
