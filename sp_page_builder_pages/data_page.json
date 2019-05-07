@@ -162,13 +162,13 @@
             "name": "raw_html",
             "visibility": true,
             "settings": {
-              "admin_label": "CKAN Iframe",
+              "admin_label": "Data Iframe",
               "title": "",
               "heading_selector": "h3",
               "title_fontsize": "",
               "title_lineheight": "",
               "title_letterspace": "0",
-              "html": "<div style=\"margin-top:0px\" onload=\"window.parent.parent.scrollTo(0,0)\">\n<iframe id=\"ckan-iframe\" width=\"1140px\" height=\"1900\" src=\"https://discovery.smartcolumbusos.com\"  scrolling=\"no\" frameborder=\"0\" onload=\"resizeCrossDomainIframe('ckan-iframe', 'https://discovery.smartcolumbusos.com');\" onload=\"window.parent.parent.scrollTo(0,0)\"></iframe>\n</div>\n<script type=\"text/javascript\">\nfunction resizeCrossDomainIframe(id, other_domain) {\n    var iframe = document.getElementById(id);\n    window.addEventListener('message', function(event) {\n      if (event.origin !== other_domain) return; // only accept messages from the specified domain\n      if (isNaN(event.data)) return; // only accept something which can be parsed as a number\n      var height = parseInt(event.data) + 3320; // add some extra height to avoid scrollbar\n      iframe.height = height + \"px\";\n    }, false);\n  }\n</script>",
+              "html": "<div style=\"margin-top:0px\" onload=\"window.parent.parent.scrollTo(0,0)\">\n<iframe id=\"data-iframe\" width=\"1140px\" height=\"1900\" src=\"https://discovery.smartcolumbusos.com\"  scrolling=\"no\" frameborder=\"0\" onload=\"resizeCrossDomainIframe('data-iframe', 'https://discovery.smartcolumbusos.com');\" onload=\"window.parent.parent.scrollTo(0,0)\"></iframe>\n</div>\n\n<script type=\"text/javascript\">\nconst urlParams = new URLSearchParams(window.location.search);\nconst searchParam = urlParams.get('q') || \"\";\n\ndocument.getElementById(\"data-iframe\").src=\"https://discovery.smartcolumbusos.com?q=\"+searchParam;\n\nfunction resizeCrossDomainIframe(id, other_domain) {\n    var iframe = document.getElementById(id);\n    window.addEventListener('message', function(event) {\n      if (event.origin !== other_domain) return; // only accept messages from the specified domain\n      if (isNaN(event.data)) return; // only accept something which can be parsed as a number\n      var height = parseInt(event.data) + 3320; // add some extra height to avoid scrollbar\n      iframe.height = height + \"px\";\n    }, false);\n  }\n</script>",
               "class": "",
               "global_background_type": "none",
               "global_background_gradient": {
