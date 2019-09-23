@@ -7,8 +7,8 @@ Run zap and should no longer see iFrame header.
 
 ## Remove Data iFrame and redirect
 + Unpublish Data Page
-+ SP Page Builder > Pages > Data Upgrade
-+ Go to Components -> Redirects, set `New Url` of Data to root url of discovery ui
++ Go to Components -> Redirects, set `New Url` of Data to root url of discovery ui. Ex: `/data` becomes `https://discovery.dev.internal.smartcolumbusos.com/`
++ SP Page Builder > Pages > Data Upgrade > unpublish
 
 ## Update Navbar link
 + Menu, Data
@@ -18,11 +18,16 @@ Run zap and should no longer see iFrame header.
 ## Update Search Box
 + SP Page Builder > Pages > Home
 + Import /code/scos-joomla/sp_page_builder_pages/home_page.json
++ Update link to proper environment
 + Save
 + Close
 
 ## Data Story iFrames
-???
++ SP Page Builder > Pages > Home
++ Import /code/scos-joomla/sp_page_builder_pages/data_story_developers_needed.json
++ Update link to proper environment
++ Save
++ Close
 
 
 <form action="https://discovery.smartcolumbusos.com" target="_top" >
@@ -32,4 +37,16 @@ Run zap and should no longer see iFrame header.
 
 .search-input {
    width: 100%;
+}
+
+
+<a class="browse-button" href="https://discovery.dev.internal.smartcolumbusos.com/?q=bridges&apiAccessible=false">Browse Bridge Datasets</a></div>
+
+.browse-button {
+   background: #00aeef;
+   color: #fff;
+   padding: 5px 10px;
+   display: inline-block;
+   font-weight: bold;
+   margin-top: 20px;"
 }
