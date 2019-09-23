@@ -34,17 +34,13 @@ Run zap and should no longer see iFrame header.
 + SP Page Builder > Pages > Data Upgrade > unpublish
 
 
-
-
+Jake Clark manually did the search and data story updates, so we did not use the updated exports.
 
 <form action="https://discovery.smartcolumbusos.com" target="_top" >
-<input class="search-input" type="text" name="q" placeholder="Search Datasets...">
+<input style="width: 100%;" type="text" name="q" placeholder="Search Datasets...">
 <input src="/templates/pocsmart/images/searchButtonBlue.png" type="image" value="Search" style="display: inline-block;position: absolute;right: 10px;width: 25px;top: 5px;">
 </form>
 
-.search-input {
-   width: 100%;
-}
 
 
 <a class="browse-button" href="https://discovery.dev.internal.smartcolumbusos.com/?q=bridges&apiAccessible=false">Browse Bridge Datasets</a></div>
