@@ -25,3 +25,11 @@ Run zap and should no longer see iFrame header.
 ???
 
 
+<form action="https://discovery.smartcolumbusos.com" target="_top" >
+<input class="search-input" type="text" name="q" placeholder="Search Datasets...">
+<input src="/templates/pocsmart/images/searchButtonBlue.png" type="image" value="Search" style="display: inline-block;position: absolute;right: 10px;width: 25px;top: 5px;">
+</form>
+
+.search-input {
+   width: 100%;
+}
