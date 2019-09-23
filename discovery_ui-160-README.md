@@ -5,15 +5,18 @@ The search box on the smart columbus homepage should redirect to discovery-ui wi
 Data story iframes will need reworked so menu-in-menu does not get displayed. (Work with jake on the best way to design this experience)
 Run zap and should no longer see iFrame header.
 
-## Remove Data iFrame and redirect
-+ Unpublish Data Page
-+ Go to Components -> Redirects, set `New Url` of Data to root url of discovery ui. Ex: `/data` becomes `https://discovery.dev.internal.smartcolumbusos.com/`
-+ SP Page Builder > Pages > Data Upgrade > unpublish
 
-## Update Navbar link
-+ Menu, Data
-+ System Links -> URL
-+ Fill in URL with root url of discovery ui
+## ~~Update Navbar link~~
++ ~~Menu, Data~~
++ ~~System Links -> URL~~
++ ~~Fill in URL with root url of discovery ui~~
+
+## Data Story iFrames
++ SP Page Builder > Pages > Story 1 - Developers Needed to Fill an "App Gap"
++ Import /code/scos-joomla/sp_page_builder_pages/data_story_developers_needed.json
++ Update link to proper environment
++ Save
++ Close
 
 ## Update Search Box
 + SP Page Builder > Pages > Home
@@ -22,12 +25,16 @@ Run zap and should no longer see iFrame header.
 + Save
 + Close
 
-## Data Story iFrames
-+ SP Page Builder > Pages > Home
-+ Import /code/scos-joomla/sp_page_builder_pages/data_story_developers_needed.json
-+ Update link to proper environment
-+ Save
-+ Close
+## Deploy the app
++ Deploy the app
+
+## Remove Data iFrame and redirect
++ Unpublish Data Page
++ Go to Components -> Redirects, set `New Url` of Data to root url of discovery ui. Ex: `/data` becomes `https://discovery.dev.internal.smartcolumbusos.com/`
++ SP Page Builder > Pages > Data Upgrade > unpublish
+
+
+
 
 
 <form action="https://discovery.smartcolumbusos.com" target="_top" >
