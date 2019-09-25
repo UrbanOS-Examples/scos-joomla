@@ -1037,70 +1037,20 @@
             }
           },
           {
-            "id": 1512081174346,
-            "name": "heading",
-            "visibility": true,
-            "settings": {
-              "admin_label": "BRIDGE DATA SETS AVAILABLE",
-              "title": "BRIDGE DATA SETS AVAILABLE",
-              "heading_selector": "h4",
-              "use_link": 0,
-              "title_link": "",
-              "link_new_tab": "",
-              "title_fontsize": "",
-              "title_lineheight": "",
-              "title_letterspace": "0",
-              "title_margin": {
-                "md": "0px 0px 10px 0px",
-                "sm": "   ",
-                "xs": "   "
-              },
-              "title_padding": {
-                "md": "10px 0px 0px 0px",
-                "sm": "   ",
-                "xs": "   "
-              },
-              "title_icon_position": "before",
-              "alignment": "sppb-text-left",
-              "class": "",
-              "global_use_background": 0,
-              "global_user_border": 0,
-              "global_margin": {
-                "md": "10px 0px 10px 0px",
-                "sm": "   ",
-                "xs": "   "
-              },
-              "global_padding": {
-                "md": "0px 0px 0px 0px",
-                "sm": "   ",
-                "xs": "   "
-              },
-              "global_use_animation": 0,
-              "use_global_width": 0,
-              "hidden_md": 0,
-              "hidden_sm": 0,
-              "hidden_xs": 0,
-              "title_font_style": {
-                "weight": 900
-              },
-              "global_text_color": "#e81e75!important"
-            }
-          },
-          {
             "id": 1512081174328,
             "name": "raw_html",
             "visibility": true,
             "settings": {
-              "admin_label": "Bridge iFrame",
+              "admin_label": "Browse Bridges",
               "title": "",
               "heading_selector": "h3",
               "title_fontsize": "",
               "title_lineheight": "",
               "title_letterspace": "0",
-              "html": "<div class=\"h_iframe\">\n<iframe src=\"https://discovery.smartcolumbusos.com/dataset/ogrip/8a465d63_1ddc_4215_9624_daa6578dddcb\" frameBorder=\"0\" scrolling=\"no\"></iframe>\n</div>",
+              "html": "<a class=\"browse-button\" href=\"https://discovery.smartcolumbusos.com/?q=bridges&apiAccessible=false\">Browse Bridge Datasets</a></div>",
               "class": "",
               "global_use_background": 0,
-              "global_user_border": 1,
+              "global_user_border": 0,
               "global_margin": {
                 "md": "0px 0px 0px 0px",
                 "sm": "   ",
@@ -1118,7 +1068,8 @@
               "hidden_xs": 0,
               "global_border_color": "#000000",
               "global_boder_style": "solid",
-              "title_text_color": "#e81e75"
+              "title_text_color": "#e81e75",
+              "global_custom_css": ".browse-button {\n   background: #00aeef; \n   color: #fff; \n   padding: 5px 10px; \n   display: inline-block; \n   font-weight: bold;\n   margin-top: 20px;\"\n}"
             }
           },
           {
